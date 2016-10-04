@@ -1,0 +1,326 @@
+.site-aliados10 .panels-flexible-region{
+	background-color:#ffffff;
+	min-height: 860px;
+}
+.site-aliados10 .main_container{
+	background: url('https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/bg-aliados10.png') #e5e5e5 repeat-x;
+}
+.site-aliados10 .breadcrumb{
+	display:none;
+}
+.site-aliados10 .title{
+    display: none;
+}
+#menu-jornada-unica{
+	background-color: #1F2B49 !important;
+}
+.site-aliados10 #microsite_panel .pane-menu, .site-aliados10 #microsite_panel .pane-menu > div .menu{
+	background-color: #1F2B49;
+	border-bottom: solid 3px #CE1024;
+}
+.site-aliados10 .main-menu-single-day li a{
+	padding-bottom: 11px !important;
+    font-size: 14px !important;
+    font-weight: 500 !important;
+    color: #ffffff !important;
+    border: none !important;
+    text-transform: inherit;
+	padding: 10px 16px 10px 16px !important;
+}
+.site-aliados10 .main-menu-single-day .pane-content ul li a{
+	background:none;
+}
+.site-aliados10 .main-menu-single-day .pane-content ul li a:hover{
+	text-decoration:none;
+}
+.site-aliados10 .main-menu-single-day > .pane-content > ul > li:first-child{
+	width:20%;
+}
+.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(2){
+	width:24%;
+}
+.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(3){
+	width:22%;
+}
+.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(4){
+	width:18%;
+}
+.site-aliados10 .main-menu-single-day > .pane-content > ul > li:last-child{
+	padding-top: 9px;
+	width:16%;
+}
+.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu li.parent_menu:hover > .children_menu,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu li.parent_menu > .children_menu{
+    top: 97%;
+	height:0px;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu:hover,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu > .children_menu:hover{height:auto;}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a{
+	background-color:#DB0020;
+	line-height: 20px;
+	height:auto;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li{
+	background-color:#DB0020;
+	border-bottom:solid 1px #A41024;
+	padding:0 2px;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li:last-child{
+	border-bottom:none;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a:hover{
+	background:#A41024;
+}
+/*slider*/
+.site-aliados10 #jornada_unica_home_slider {
+	height: 300px;
+    overflow: hidden;
+	border-bottom: solid 10px #ffffff;
+}
+ .site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-top {
+    position: relative;
+	top: 100px;
+	width: 100%;
+    z-index: 10;
+	padding: 0 0%;
+}
+.site-aliados10 #jornada_unica_home_slider  #views_slideshow_cycle_main_contenidos_inclusivos-panel_pane_4 {
+	position: relative;
+    top: -20px;
+}
+.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-pause {
+		display: none;
+}
+.site-aliados10 #jornada_unica_home_slider .views_slideshow_controls_text_next {
+		float: right;
+}
+.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-previous a {
+		color: transparent;
+		padding-bottom: 35px;
+		background: url("https://dl.dropboxusercontent.com/u/575652037/edu-unica/images/slider-btn-back.png") no-repeat center center / contain;
+}
+.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-next a {
+		color: transparent;
+		padding-bottom: 35px;
+		background: url("https://dl.dropboxusercontent.com/u/575652037/edu-unica/images/slider-btn-next.png") no-repeat center center / contain;
+}
+.site-aliados10 #jornada_unica_home_slider{
+    margin: -20px 0 10px 0;
+}
+.site-aliados10 #microsite_panel .slide .pane-content > .menu li.parent_menu > .children_menu{
+	z-index:100;
+}
+/*iframe video*/
+.site-aliados10 #genal-video-content-single-day{
+	margin:10px 0px;
+	/*display:block;*/
+}
+.site-aliados10 .sub-menu-single-day{
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 2px solid #1F2B49;
+	padding:15px 10px;
+	background-color:#ffffff;
+	-webkit-box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	display:inline-block;
+	width:100%;
+	margin-top:10px;
+}
+.site-aliados10 .option-menu{
+	border-bottom: solid 1px #B8B9BD;
+}
+.site-aliados10 .option-menu:first-child{
+	border-top: 1px solid #B8B9BD;
+}
+.site-aliados10 .option-menu a, .site-aliados10 .option-menu li{
+	text-align: left;
+	color:#1F2B49;
+	padding: 2px 10px;
+	width:100%;
+	display:block;
+}
+.site-aliados10 .option-menu li label{
+	float:left;
+	text-align:left;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.site-aliados10 .option-menu label .icon, .site-aliados10 .eye-class .option-menu .icons{
+	background: url("../images/icons-jornada-unica.png") no-repeat;
+}
+.site-aliados10 .option-menu label .icon-contact,.site-aliados10 .option-menu label .icon-foro{
+	float:right;
+	display:block;
+	width:36px;
+	height:37px;
+}
+.site-aliados10 .option-menu label .icon-contact{
+	background-position: -4px -6px;
+}
+.site-aliados10 .option-menu label .icon-foro{
+	background-position: -4px -42px;
+}
+
+.site-aliados10 .option-menu a:hover{
+	background-color:rgba(0,0,0,0.1);
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+.site-aliados10 .option-menu a label{
+	text-decoration:underline;
+	text-decoration: underline;
+    width: 100%;
+    line-height: 38px;
+}
+.site-aliados10 .option-menu a:hover label{
+	color:#3358A0;
+	text-decoration:underline;
+	cursor:pointer;
+}
+.site-aliados10 .eye-class{
+	background:#E9E9E9;
+	border-radius: 50% 50% 50% 50%;
+	-moz-border-radius: 50% 50% 50% 50%;
+	-webkit-border-radius: 50% 50% 50% 50%;
+	border: 0px solid #000000;
+}
+.site-aliados10 .list-contact{
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	border: 2px solid #1F2B49;
+	padding:15px 10px;
+	background-color:#ffffff;
+	-webkit-box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	box-shadow: 3px 3px 0px 0px rgba(0,0,0,0.2);
+	margin:130px 10px 0 40px;
+	box-sizing:border-box;
+	width:40%;
+}
+.site-aliados10 .eye-class .option-menu:first-child{
+	border-top:0px;
+}
+.site-aliados10 .eye-class .option-menu:last-child{
+	border-bottom:0px;
+}
+.site-aliados10 .eye-class img{
+	margin:auto;
+}
+.site-aliados10 .eye-class .option-menu label span{
+	width:100%;
+	display:block;
+	box-sizing:border-box;
+	font-weight:bold;
+}
+.site-aliados10 .eye-class .option-menu label{
+	font-weight:normal;
+}
+.site-aliados10 .eye-class .contact-labels-group{
+	display:inline-block;
+	box-sizing:border-box;
+}
+.site-aliados10 .eye-class .option-menu .icons{
+	width:45px;
+	height:45px;
+	display:inline-block;
+	margin-right:5px;
+	vertical-align: bottom;
+}
+.site-aliados10 .eye-class .option-menu .email-icon{
+	background-position: 0px -80px;
+}
+.site-aliados10 .eye-class .option-menu .phone-icon{
+	background-position: 0px -119px;
+}
+.site-aliados10 .btn-media{
+	border: 1px solid #1F2B49;
+	border-radius: 10px 10px 10px 10px;
+	-moz-border-radius: 10px 10px 10px 10px;
+	-webkit-border-radius: 10px 10px 10px 10px;
+	width:50%;
+	margin:10px auto;
+	display:block;
+	padding:10px;
+	text-align:left;
+	text-decoration:none;
+}
+.site-aliados10 .btn-media h4{
+	text-decoration:none;
+}
+.site-aliados10 .btn-media img, .site-aliados10 .btn-media h4,.site-aliados10 .btn-media p{
+	display:inline-block;
+}
+.site-aliados10 .content .section-content-ju .btn-media ul li{
+	font-size: 10px;
+}
+.site-aliados10 .content .section-content-ju .btn-media:hover{
+	background-color:#ececec;
+}
+.site-aliados10 .content .documents-container{
+	border-bottom:1px solid #8E8E8E;
+    margin: 0 15px;
+}
+.site-aliados10 .content .documents-container:first-child {
+	border-top:1px solid #8E8E8E!important;
+}
+.site-aliados10 .content .documents-container a{
+	display:inline-block;
+	text-decoration:none;
+	line-height: 40px;
+    color: #0e0e0e;
+	margin: 0 15px;
+}
+.site-aliados10 .content .documents-container a label{
+    margin-bottom: 0px;
+}
+.site-aliados10 .content .documents-container .btn-download{
+	float:right;
+	background:#CE1024;
+	padding: 0 10px;
+	line-height:30px;
+	margin: 5px;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+.site-aliados10 .content .documents-container .btn-download:hover{
+	background:#1F2B49;
+}
+.site-aliados10 .content .documents-container .btn-download label{
+	font-weight: bold;
+    color: #ffffff;
+	text-decoration:underline;
+	font-size:12px;
+	cursor:pointer;
+}
+
+@media (max-width: 1000px){
+	.site-aliados10 .site-aliados10 .list-contact{
+		width:90%;
+		margin:auto;
+		box-sizing:border-box;
+	}
+}
+
+@media (max-width: 850px){
+	.site-aliados10 .main-menu-single-day > .pane-content > ul > li{
+		width:100%!important;
+	}
+}
