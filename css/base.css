@@ -1,121 +1,19 @@
 .site-aliados10 .panels-flexible-region{
 	background-color:#ffffff;
 	min-height: 860px;
+	-webkit-box-shadow: -5px 0px 15px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow: -5px 0px 15px 0px rgba(0,0,0,0.2);
+	box-shadow: -5px 0px 15px 0px rgba(0,0,0,0.2);
 }
 .site-aliados10 .main_container{
 	background: url('https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/bg-aliados10.png') #e5e5e5 repeat-x;
+	background-position: bottom;
 }
 .site-aliados10 .breadcrumb{
 	display:none;
 }
 .site-aliados10 .title{
     display: none;
-}
-#menu-jornada-unica{
-	background-color: #1F2B49 !important;
-}
-.site-aliados10 #microsite_panel .pane-menu, .site-aliados10 #microsite_panel .pane-menu > div .menu{
-	background-color: #1F2B49;
-	border-bottom: solid 3px #CE1024;
-}
-.site-aliados10 .main-menu-single-day li a{
-	padding-bottom: 11px !important;
-    font-size: 14px !important;
-    font-weight: 500 !important;
-    color: #ffffff !important;
-    border: none !important;
-    text-transform: inherit;
-	padding: 10px 16px 10px 16px !important;
-}
-.site-aliados10 .main-menu-single-day .pane-content ul li a{
-	background:none;
-}
-.site-aliados10 .main-menu-single-day .pane-content ul li a:hover{
-	text-decoration:none;
-}
-.site-aliados10 .main-menu-single-day > .pane-content > ul > li:first-child{
-	width:20%;
-}
-.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(2){
-	width:24%;
-}
-.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(3){
-	width:22%;
-}
-.site-aliados10 .main-menu-single-day > .pane-content > ul > li:nth-child(4){
-	width:18%;
-}
-.site-aliados10 .main-menu-single-day > .pane-content > ul > li:last-child{
-	padding-top: 9px;
-	width:16%;
-}
-.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu li.parent_menu:hover > .children_menu,
-.site-aliados10 #microsite_panel .slide .pane-content > .menu li.parent_menu > .children_menu{
-    top: 97%;
-	height:0px;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-ms-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease;
-}
-.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu:hover,
-.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu,
-.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu > .children_menu:hover{height:auto;}
-.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a{
-	background-color:#DB0020;
-	line-height: 20px;
-	height:auto;
-}
-.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li{
-	background-color:#DB0020;
-	border-bottom:solid 1px #A41024;
-	padding:0 2px;
-}
-.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li:last-child{
-	border-bottom:none;
-}
-.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a:hover{
-	background:#A41024;
-}
-/*slider*/
-.site-aliados10 #jornada_unica_home_slider {
-	height: 300px;
-    overflow: hidden;
-	border-bottom: solid 10px #ffffff;
-}
- .site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-top {
-    position: relative;
-	top: 100px;
-	width: 100%;
-    z-index: 10;
-	padding: 0 0%;
-}
-.site-aliados10 #jornada_unica_home_slider  #views_slideshow_cycle_main_contenidos_inclusivos-panel_pane_4 {
-	position: relative;
-    top: -20px;
-}
-.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-pause {
-		display: none;
-}
-.site-aliados10 #jornada_unica_home_slider .views_slideshow_controls_text_next {
-		float: right;
-}
-.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-previous a {
-		color: transparent;
-		padding-bottom: 35px;
-		background: url("https://dl.dropboxusercontent.com/u/575652037/edu-unica/images/slider-btn-back.png") no-repeat center center / contain;
-}
-.site-aliados10 #jornada_unica_home_slider .views-slideshow-controls-text-next a {
-		color: transparent;
-		padding-bottom: 35px;
-		background: url("https://dl.dropboxusercontent.com/u/575652037/edu-unica/images/slider-btn-next.png") no-repeat center center / contain;
-}
-.site-aliados10 #jornada_unica_home_slider{
-    margin: -20px 0 10px 0;
-}
-.site-aliados10 #microsite_panel .slide .pane-content > .menu li.parent_menu > .children_menu{
-	z-index:100;
 }
 /*iframe video*/
 .site-aliados10 #genal-video-content-single-day{
@@ -320,7 +218,7 @@
 }
 
 @media (max-width: 850px){
-	.site-aliados10 .main-menu-single-day > .pane-content > ul > li{
+	.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li{
 		width:100%!important;
 	}
 }
