@@ -1,3 +1,7 @@
+/*Es importante definir el content inicialmente*/
+.site-aliados10 .main_container .section_content {
+  width: 1024px;
+}
 .content h1, .content h2, .content h3{
     margin-bottom:30px;
     font-weight:normal;
@@ -51,7 +55,168 @@
 .site-aliados10 .content p .amplification{
 
 }
-/****tablas****/
+/***MENÚ***/
+/*cuando todos los hijos del menú son iguales*/
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li{
+	width:25%;
+  border-right: 2px solid rgba(255, 255, 255, 0.7);
+  margin: 5px 0;
+}
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:last-child{
+	border-right: none;
+}
+/*cuando el menú tiene difirentes tamaños para cada hijo*/
+/*
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:first-child{
+	width:20%;
+}
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:nth-child(2){
+	width:24%;
+}
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:nth-child(3){
+	width:22%;
+}
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:nth-child(4){
+	width:18%;
+}
+.site-aliados10 .main-menu-allies-10 > .pane-content > ul > li:last-child{
+	padding-top: 9px;
+	width:16%;
+}
+*/
+.site-aliados10 #microsite_panel .pane-menu, .site-aliados10 #microsite_panel .pane-menu > div .menu{
+	background-color: #8DB530;
+	border-bottom: none;
+}
+.site-aliados10 .main-menu-allies-10 li a{
+	font-size: 17px !important;
+  font-weight: 600 !important;
+	color: #201150!important;
+	border: none !important;
+	text-transform: inherit;
+	padding: 12px 16px 13px 16px !important
+}
+.site-aliados10 .main-menu-allies-10 .pane-content ul li a{background:none;}
+.site-aliados10 .main-menu-allies-10 .pane-content ul li a:hover{
+	text-decoration:none;
+  color:#ffffff!important;
+}
+.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu li.parent_menu:hover > .children_menu,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu li.parent_menu > .children_menu{
+  top: 93%;
+	height:0px;
+  background: transparent;
+}
+.site-aliados10 .inclusive-contents-panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu:hover,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu:hover > .children_menu,
+.site-aliados10 #microsite_panel .slide .pane-content > .menu:hover li.parent_menu > .children_menu:hover{height:auto;}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a{
+  background-color: rgba(255,255,255,0.5);
+  line-height: 14px;
+  font-size: 14px!important;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li{
+  background-color: rgba(255,255,255,0.5);
+	border-bottom: solid 1px #B7CF80;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li:first-child{
+  border-top: solid 4px #8DB530;
+}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li:last-child{border-bottom:none;}
+.site-aliados10 #microsite_panel .pane-content > .menu li.parent_menu > .children_menu li a:hover{
+  background: #B7CF80;
+  padding: 18px 20px 18px 20px !important;
+  display: block;
+  height: 50px;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+}
+/*******SLIDER******/
+#aliados-10-home-slider {
+		height: 320px;
+		overflow: hidden;
+		padding: 0 15px;
+		margin-bottom: 15px;
+}
+
+ #aliados-10-home-slider .views-slideshow-controls-top {
+		position: absolute;
+	  top: 27%;
+		width: 97%;
+		z-index: 5;
+		padding: 0 3%;
+}
+
+.site-aliados10 #aliados-10-home-slider  #views_slideshow_cycle_main_edth_vista-panel_pane_4 {
+		position: relative;
+    top: -6vw;
+}
+
+.site-aliados10 #aliados-10-home-slider .views-slideshow-controls-text-pause {
+		display: none;
+}
+
+.site-aliados10 #aliados-10-home-slider .views_slideshow_controls_text_next {
+		float: right;
+}
+
+.site-aliados10 #aliados-10-home-slider .views-slideshow-controls-text-previous a {
+		color: transparent;
+		padding-bottom: 35px;
+		background: url("../img/previous_slide_icon.png") no-repeat center center / contain;
+}
+
+.site-aliados10 #aliados-10-home-slider .views-slideshow-controls-text-next a {
+		color: transparent;
+		padding-bottom: 35px;
+		background: url("../img/next_slide_icon.png") no-repeat center center / contain;
+}
+
+.site-aliados10 #aliados-10-home-slider #views_slideshow_cycle_teaser_section_edth_vista-panel_pane_4,
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide,
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide img {
+		width: 100% !important;
+}
+
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide > div {
+		position: relative;
+}
+
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide > div .views-field-body {
+  position: absolute;
+  top: 25%;
+  width: 76%;
+  right: 12%;
+  background: transparent;
+  padding: 15px;
+  color: white;
+}
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide .views-field-body .field-content p{
+  color:#ffffff!important;
+  background-color:rgba(255,255,255,0)!important;
+}
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide label {
+		color: #005573;
+		font-size: 24px;
+}
+
+.site-aliados10 #aliados-10-home-slider .views_slideshow_slide .field-content p {
+	  font-size: 13px;
+}
+
+.site-aliados10 #aliados-10-home-slider .views-more-link {
+		display: block;
+		background: #ff9400;
+    color: white;
+    margin: 15px -15px -15px;
+    padding: 4px 20px;
+    position: absolute;
+    right: 15px;
+}
+/****TABLAS****/
 .site-aliados10 .content .table-responsive > thead > tr > th, .site-aliados10 .content .table-responsive > tbody > tr > th,.site-aliados10 .content .table-responsive > tfoot > tr > th,.site-aliados10 .content .table-responsive > thead > tr > td,.site-aliados10 .content .table-responsive > tbody > tr > td,.site-aliados10 .content .table-responsive > tfoot > tr > td {
     border:none;
 }
