@@ -53,6 +53,8 @@ class BaseAliados {
             $rector_mentor = trim($sheet->getCellByColumnAndRow(5, $file)->getValue());
             $correo_mentor = trim($sheet->getCellByColumnAndRow(6, $file)->getValue());
             
+            $index = trim($sheet->getCellByColumnAndRow(16, $file)->getValue());
+            
             $entitiesArray[$i]['departamento'] = $departamento;
             $entitiesArray[$i]['region'] = $region;
             $entitiesArray[$i]['pareja'] = $pareja;
@@ -66,6 +68,7 @@ class BaseAliados {
             $entitiesArray[$i]['telefono_mentor'] = $telefono_mentor;
             $entitiesArray[$i]['rector_mentor'] = $rector_mentor;
             $entitiesArray[$i]['correo_mentor'] = $correo_mentor;
+            $entitiesArray[$i]['index'] = $index;
             
             $i++;
         }

@@ -11,7 +11,8 @@
         "direccion_mentor": "IND CALLE 26 SUR NO. 43 A 30",
         "telefono_mentor": "3319087; 3316531",
         "rector_mentor": "MARIA HELENA RIVILLAS MARTINEZ",
-        "correo_mentor": "teresiano@une.net.co; helenrivillas@gmail.com"
+        "correo_mentor": "teresiano@une.net.co; helenrivillas@gmail.com",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -25,7 +26,8 @@
         "direccion_mentor": "KR 35 9 160",
         "telefono_mentor": "2686034",
         "rector_mentor": "CONSUELO AMAYA LOPEZ",
-        "correo_mentor": "secretariaacademica@pinares.edu.co, pinares@pinares.edu.co"
+        "correo_mentor": "secretariaacademica@pinares.edu.co, pinares@pinares.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -39,7 +41,8 @@
         "direccion_mentor": "CL 9 SUR 37 345",
         "telefono_mentor": "3211166",
         "rector_mentor": "BEATRIZ ACOSTA",
-        "correo_mentor": "secretaria.ensenanzamde@cdm.edu.co"
+        "correo_mentor": "secretaria.ensenanzamde@cdm.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -53,7 +56,8 @@
         "direccion_mentor": "CL 51 65 72",
         "telefono_mentor": "2606009",
         "rector_mentor": "FEDERICO GARCIA POSADA",
-        "correo_mentor": "elijr@une.net.co; ijrbachillerato@gmail.com,"
+        "correo_mentor": "elijr@une.net.co; ijrbachillerato@gmail.com,",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -67,7 +71,8 @@
         "direccion_mentor": "KR 51 A 23 83",
         "telefono_mentor": "4628257",
         "rector_mentor": "PADRE CARLOS ARTURO GONZALEZ BETANCUR",
-        "correo_mentor": "colsanbu@une.net.co"
+        "correo_mentor": "colsanbu@une.net.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -81,7 +86,8 @@
         "direccion_mentor": "IND TR 36 72 93",
         "telefono_mentor": "4133737",
         "rector_mentor": "HNA MARISOL SANTOYO NARANJO",
-        "correo_mentor": "cbethlemitas@une.net.co; rectoria@bethlemitas.edu.co"
+        "correo_mentor": "cbethlemitas@une.net.co; rectoria@bethlemitas.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -95,7 +101,8 @@
         "direccion_mentor": "KR 82 48 A 120",
         "telefono_mentor": "2642055",
         "rector_mentor": "MARY LUZ RAM\u00cdREZ MART\u00cdNEZ",
-        "correo_mentor": "calasanz@calasanz-medellin.edu.co"
+        "correo_mentor": "calasanz@calasanz-medellin.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -109,7 +116,8 @@
         "direccion_mentor": "CL 63 SUR 41 05",
         "telefono_mentor": "3054000",
         "rector_mentor": "OMAR GIRALDO GOMEZ",
-        "correo_mentor": "alcazares@alcazares.edu.co asis rectoria@alcazares.edu.co"
+        "correo_mentor": "alcazares@alcazares.edu.co asis rectoria@alcazares.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -123,7 +131,8 @@
         "direccion_mentor": "CL 48 68 98",
         "telefono_mentor": "2300200",
         "rector_mentor": "PADRE MARIo FRANCO ESPINAL",
-        "correo_mentor": "academica@sanignacio.edu.co; vicerrectora@sanignacio.edu.co  rector@sanignacio.edu.co"
+        "correo_mentor": "academica@sanignacio.edu.co; vicerrectora@sanignacio.edu.co  rector@sanignacio.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ANTIOQUIA",
@@ -137,77 +146,8 @@
         "direccion_mentor": "KM 4 VIA LLANOGRANDE",
         "telefono_mentor": "5372001",
         "rector_mentor": "LUZ STELLA GONZALEZ HENAO",
-        "correo_mentor": "gerencia@colegiohorizontes.edu.co; secretaria@colegiohorizontes.edu.co"
-    },
-    {
-        "departamento": "BOLIVAR",
-        "pareja": "1",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA EL BUEN AIRE PASACABALLOS",
-        "direccion_acomp": "PASACABALLOS - ST NUEVO PORVENIR KR 62 CL 22",
-        "telefono_acomp": "3145533612 -3053421357",
-        "rector_acomp": "LEONIDAS BARCOS HERNANDEZ",
-        "correo_acomp": "censbapasacaballos@hotmail.com; leonidasbarco@gmail.com",
-        "mentor": "CORPORACION INSTITUTO DOCENTE DE CARIBE",
-        "direccion_mentor": "PIEDRA DE BOLIVAR CALLE SANTA CRUZ (30A) No. 50-97",
-        "telefono_mentor": "57-5-6722701   3185245429",
-        "rector_mentor": "ARNOLD BARRIOS PAEZ",
-        "correo_mentor": "idc146@yahoo.es"
-    },
-    {
-        "departamento": "BOLIVAR",
-        "pareja": "2",
-        "acomp": "INSTITUCION EDUCATIVA VILLA ESTRELLA",
-        "direccion_acomp": "Barrio Villa Estrella, calle Ppal No. 36-31-15",
-        "telefono_acomp": "3007474313",
-        "rector_acomp": "DILIA ESTHER MAR\u00cdN ARIAS",
-        "correo_acomp": "marianarias65@hotmail.com",
-        "mentor": "CENTRO DE ENSE\u00d1ANZA PRECOZ NUEVO MUNDO",
-        "direccion_mentor": "MANGA AV ALFONSO ARAUJO # 26 \u2013 02",
-        "telefono_mentor": "TEL. 6607557 ; 6609001  3114069580",
-        "rector_mentor": "MANUEL MENDIVIL CASTILLO",
-        "correo_mentor": "mmendivilc@gmail.com;"
-    },
-    {
-        "departamento": "BOLIVAR",
-        "pareja": "3",
-        "acomp": "INSTITUCION EDUCATIVA CORAZON DE MARIA",
-        "direccion_acomp": "San Francisco Cra.19#77-21 (Al lado del CAI se Sn.fco,)",
-        "telefono_acomp": "3164447063",
-        "rector_acomp": "F\u00c9LIX CABALLERO ARIAS - 3135121290",
-        "correo_acomp": "imarunto@hotmail.com;",
-        "mentor": "CENTRO DE ENSE\u00d1ANZA PRECOZ NUEVO MUNDO",
-        "direccion_mentor": "MANGA AV ALFONSO ARAUJO # 26 \u2013 02",
-        "telefono_mentor": "TEL. 6607557 ; 6609001  3114069580",
-        "rector_mentor": "MANUEL MENDIVIL CASTILLO",
-        "correo_mentor": "mmendivilc@gmail.com;"
-    },
-    {
-        "departamento": "BOLIVAR",
-        "pareja": "4",
-        "acomp": "INSTITUCION EDUCATIVAFULGENCIO LEQUERICA",
-        "direccion_acomp": "Chiquinquir\u00e1 Mz. 56- Lt. 1(detr\u00e1s del ICBF de",
-        "telefono_acomp": "3008370486 3126974505",
-        "rector_acomp": "CARMEN MARIA RANGEL SEPULVEA",
-        "correo_acomp": "jubaro2011@hotmail.com;",
-        "mentor": "COLEGIO LOS ANGELES",
-        "direccion_mentor": "URB LOS ANGELES CLL 30 # 62-83",
-        "telefono_mentor": "TEL. 6610972 ; 6531345   3016160714",
-        "rector_mentor": "BETTY GUERRA OVIEDO",
-        "correo_mentor": "albamencolozano@hotmail.com;"
-    },
-    {
-        "departamento": "BOLIVAR",
-        "pareja": "5",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA SAN JUAN DE DAMASCO",
-        "direccion_acomp": "AMBERES 1 ER CALLEJON CRA 41 # 26C-38",
-        "telefono_acomp": "3008007276",
-        "rector_acomp": "NELLY ZAMMATA DE OROZCO",
-        "correo_acomp": "nezama125512@hotmail.com",
-        "mentor": "COLEGIO ALMIRANTE COL\u00d3N",
-        "direccion_mentor": "ALMIRANTE COLON M Y LOTE 1  ETAPA 2",
-        "telefono_mentor": "6570210 ;  6573378  3016735497",
-        "rector_mentor": "JORGE ISAAC CORREA JIMENEZ",
-        "correo_mentor": "colemilitar3105@hotmail.com"
+        "correo_mentor": "gerencia@colegiohorizontes.edu.co; secretaria@colegiohorizontes.edu.co",
+        "index": "CO-ANT"
     },
     {
         "departamento": "ATLANTICO",
@@ -221,7 +161,8 @@
         "direccion_mentor": "CL 41 7 07",
         "telefono_mentor": "3641256 - 3631562 - 3004612263 - 3126686962",
         "rector_mentor": "ZAYLAYA TORRES SALAZAR",
-        "correo_mentor": "zay040459@yahoo.com"
+        "correo_mentor": "zay040459@yahoo.com",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -235,7 +176,8 @@
         "direccion_mentor": "CALLE 74 No 41-46",
         "telefono_mentor": "3565091",
         "rector_mentor": "LUZ DENIS REYES CASTRO",
-        "correo_mentor": "rectoria@redboston.edu.co\";\"rectoria@redboston.edu.co\")"
+        "correo_mentor": "rectoria@redboston.edu.co\";\"rectoria@redboston.edu.co\")",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -249,7 +191,8 @@
         "direccion_mentor": "CL 48 39 42",
         "telefono_mentor": "3404052 3004071858",
         "rector_mentor": "HNA. LUZ MARINA ZAPATA",
-        "correo_mentor": "luzmarcelina@gmail.com"
+        "correo_mentor": "luzmarcelina@gmail.com",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -263,7 +206,8 @@
         "direccion_mentor": "KR 31 64 47",
         "telefono_mentor": "3658052 - 3585437 - 3008306301",
         "rector_mentor": "",
-        "correo_mentor": "lumemar0227@hotmail.com"
+        "correo_mentor": "lumemar0227@hotmail.com",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -277,7 +221,8 @@
         "direccion_mentor": "IND KM 2 CART PUERTO COLOMBIA",
         "telefono_mentor": "3598929",
         "rector_mentor": "LAURA HORBAL REBOLLEDO",
-        "correo_mentor": "lhorbal@kcparrish.edu.co"
+        "correo_mentor": "lhorbal@kcparrish.edu.co",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -291,7 +236,8 @@
         "direccion_mentor": "KR 43 85 25",
         "telefono_mentor": "3595870",
         "rector_mentor": "PABLO CHIAPPE LAVERDE",
-        "correo_mentor": "lcharris@colegiohebreounion.edu.co"
+        "correo_mentor": "lcharris@colegiohebreounion.edu.co",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -305,7 +251,8 @@
         "direccion_mentor": "KR 35 72 35",
         "telefono_mentor": "3523993-3684572",
         "rector_mentor": "JOSE RODOLFO HENAO",
-        "correo_mentor": "josebernal3@gmail.com"
+        "correo_mentor": "josebernal3@gmail.com",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -319,7 +266,8 @@
         "direccion_mentor": "KR 41 D 74 87",
         "telefono_mentor": "3146311405",
         "rector_mentor": "Jaime P\u00e9rez Montoya",
-        "correo_mentor": "gjperezsj@colsanjose.edu.co"
+        "correo_mentor": "gjperezsj@colsanjose.edu.co",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -333,7 +281,8 @@
         "direccion_mentor": "KR 2 AU EL MAR POSTE 66",
         "telefono_mentor": "3599494",
         "rector_mentor": "MARTHA ELENA MENDOZA MCCAUSLAND",
-        "correo_mentor": "colegioreal@royalschool.edu.co; martha.mendoza@royalschool.edu.co,robles@royalschool.edu.co"
+        "correo_mentor": "colegioreal@royalschool.edu.co; martha.mendoza@royalschool.edu.co,robles@royalschool.edu.co",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -347,7 +296,8 @@
         "direccion_mentor": "IND VIA PUERTO",
         "telefono_mentor": "3853172 - 3853579",
         "rector_mentor": "PRISCILA RUIZ DE VERGARA",
-        "correo_mentor": "cmontoya@altamira.edu.co\";\"cmontoya@altamira.edu.co\")"
+        "correo_mentor": "cmontoya@altamira.edu.co\";\"cmontoya@altamira.edu.co\")",
+        "index": "CO-ATL"
     },
     {
         "departamento": "ATLANTICO",
@@ -361,7 +311,8 @@
         "direccion_mentor": "CALLE 86 No 64-75",
         "telefono_mentor": "3730831",
         "rector_mentor": "CARLOS DAVIDA MARTINEZ",
-        "correo_mentor": "cdmartin@colegiolamedallamilagrosa.edu.co\";\"cdmartin@colegiolamedallamilagrosa.edu.co\")"
+        "correo_mentor": "cdmartin@colegiolamedallamilagrosa.edu.co\";\"cdmartin@colegiolamedallamilagrosa.edu.co\")",
+        "index": "CO-ATL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -375,7 +326,8 @@
         "direccion_mentor": "CL 87 7 77",
         "telefono_mentor": "796 50 40",
         "rector_mentor": "FRANCOISE VALINSTITUCI\u00d3N EDUCATIVARE",
-        "correo_mentor": "secretariatpasteur@lfbogota.com"
+        "correo_mentor": "secretariatpasteur@lfbogota.com",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -389,7 +341,8 @@
         "direccion_mentor": "AUTOPISTA NORTE NO. 209- 51",
         "telefono_mentor": "6760997 -- 6760957",
         "rector_mentor": "ALBEYRO DE JESUS VANEGAS BEDOYA CSV",
-        "correo_mentor": "secretaria@sanviator.edu.co"
+        "correo_mentor": "secretaria@sanviator.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -403,21 +356,8 @@
         "direccion_mentor": "CL 4 56 03",
         "telefono_mentor": "2607911 -- 2611890",
         "rector_mentor": "LUIGI DURAVIA CARRETA",
-        "correo_mentor": "secretaria@COLEGIOallamano.edu.co; ldc401@gmail.com"
-    },
-    {
-        "departamento": "",
-        "pareja": "4",
-        "acomp": "COLEGIO NUEVA ZELANDIA",
-        "direccion_acomp": "CL 181 # 51 A - 31",
-        "telefono_acomp": "6720103",
-        "rector_acomp": "ALBA SALAZAR RAMIREZ",
-        "correo_acomp": "cednvazelandia11@redp.edu.co\";\"cednvazelandia11@redp.edu.co\")",
-        "mentor": "COLEGIO NUEVA INGLATERRA",
-        "direccion_mentor": "Calle 218 No. 50 - 60",
-        "telefono_mentor": "\u00a06760788\u00a0",
-        "rector_mentor": "DARBY ALMANZA",
-        "correo_mentor": "sec_academica@colegionuevainglaterra.edu.co"
+        "correo_mentor": "secretaria@COLEGIOallamano.edu.co; ldc401@gmail.com",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -431,7 +371,8 @@
         "direccion_mentor": "CL 127 A 11 B 54",
         "telefono_mentor": "2747012 EXT 111",
         "rector_mentor": "LUIS FERNANDEZ LOPEZ",
-        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es"
+        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -445,7 +386,8 @@
         "direccion_mentor": "CL 127 A 11 B 54",
         "telefono_mentor": "2747012 EXT 111",
         "rector_mentor": "LUIS FERNANDEZ LOPEZ",
-        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es"
+        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -459,7 +401,8 @@
         "direccion_mentor": "CL 127 A 11 B 54",
         "telefono_mentor": "2747012 EXT 111",
         "rector_mentor": "LUIS FERNANDEZ LOPEZ",
-        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es"
+        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -473,7 +416,8 @@
         "direccion_mentor": "CL 127 A 11 B 54",
         "telefono_mentor": "2747012 EXT 111",
         "rector_mentor": "LUIS FERNANDEZ LOPEZ",
-        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es"
+        "correo_mentor": "reyescatolicos.co@mecd.es; luis.fernandez@mecd.es",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -487,7 +431,8 @@
         "direccion_mentor": "TV 74 81 C 05",
         "telefono_mentor": "4343992 -\n 2510809 5082230\n 3123404204",
         "rector_mentor": "JAVINSTITUCI\u00d3N EDUCATIVAR MANJARR\u00c9S PAB\u00d3N",
-        "correo_mentor": "rectoriasiglo21@COLEGIOsminutodedios.edu.co; siglo21@COLEGIOsminutodedios.edu.co"
+        "correo_mentor": "rectoriasiglo21@COLEGIOsminutodedios.edu.co; siglo21@COLEGIOsminutodedios.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -501,7 +446,8 @@
         "direccion_mentor": "CL 68 0 51 ESTE",
         "telefono_mentor": "2171014\n 3108148974",
         "rector_mentor": "SOR MARTHA LUCIA CORREAL",
-        "correo_mentor": "rectoria@rosariosantodomingo.edu.co\n gonzalojimenez@rosariosantodomingo.edu.co"
+        "correo_mentor": "rectoria@rosariosantodomingo.edu.co\n gonzalojimenez@rosariosantodomingo.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -515,7 +461,8 @@
         "direccion_mentor": "CL 212 # 77 - 20",
         "telefono_mentor": "6764055",
         "rector_mentor": "BEATRIZ GOMEZ DE DURAN",
-        "correo_mentor": "rectoria@losportales.edu.co -- l.bocanegra@losportales.edu.co"
+        "correo_mentor": "rectoria@losportales.edu.co -- l.bocanegra@losportales.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -529,7 +476,8 @@
         "direccion_mentor": "CL 13 16 74",
         "telefono_mentor": "3443000",
         "rector_mentor": "HNO. JOS\u00c9 GREGORIO CONTRERAS FERN\u00c1NDEZ",
-        "correo_mentor": "rectoria@itc.edu.co"
+        "correo_mentor": "rectoria@itc.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -543,7 +491,8 @@
         "direccion_mentor": "AC 209 45 80",
         "telefono_mentor": "6761129\n 3044041957",
         "rector_mentor": "APOLINAR MENDOZA MU\u00d1OZ",
-        "correo_mentor": "rectoria@gimandes.edu.co; leonordelgado2@yahoo.es"
+        "correo_mentor": "rectoria@gimandes.edu.co; leonordelgado2@yahoo.es",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -557,7 +506,8 @@
         "direccion_mentor": "Calle 193 # 9-20",
         "telefono_mentor": "670 00 08",
         "rector_mentor": "JUAN CARLOS BAYONA VARGAS",
-        "correo_mentor": "juancarlosballonav@gmail.com"
+        "correo_mentor": "juancarlosballonav@gmail.com",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -571,7 +521,8 @@
         "direccion_mentor": "CALLE 165 NO 8 A 50",
         "telefono_mentor": "310 272 1435\/",
         "rector_mentor": "JUAN ANTONIO CASAS",
-        "correo_mentor": "jacasas@campestre.edu.co"
+        "correo_mentor": "jacasas@campestre.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -585,7 +536,8 @@
         "direccion_mentor": "IND AEROPUERTO GUAYMARAL COSTADO SUR OCCIDENTAL",
         "telefono_mentor": "6683999   3125063270",
         "rector_mentor": "WALTER ABONDANO MIKAN",
-        "correo_mentor": "info@gcb.edu.co -- ruby.gonzalez@gcb.edu.co"
+        "correo_mentor": "info@gcb.edu.co -- ruby.gonzalez@gcb.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -599,7 +551,8 @@
         "direccion_mentor": "CL 62 BIS SUR 67 19",
         "telefono_mentor": "2385969",
         "rector_mentor": "LUIS ORLANDO GAMBOA PEREIRA",
-        "correo_mentor": "gimnacioogregon@gmail.com\";\"gimnacioogregon@gmail.com \")"
+        "correo_mentor": "gimnacioogregon@gmail.com\";\"gimnacioogregon@gmail.com \")",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -613,7 +566,8 @@
         "direccion_mentor": "CL 62 BIS SUR 67 19",
         "telefono_mentor": "2385969",
         "rector_mentor": "LUIS ORLANDO GAMBOA PEREIRA",
-        "correo_mentor": "gimnacioogregon@gmail.com\";\"gimnacioogregon@gmail.com \")"
+        "correo_mentor": "gimnacioogregon@gmail.com\";\"gimnacioogregon@gmail.com \")",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -627,7 +581,8 @@
         "direccion_mentor": "KR 20 A 173 A 10",
         "telefono_mentor": "6780942 -- 6725701 -- 6698835\/36",
         "rector_mentor": "SANDRA PATRICIA ARCININSTITUCI\u00d3N EDUCATIVAGAS RODRIGUEZ",
-        "correo_mentor": "colegiocalasanz@ccb.edu.co; rectoria@ccb.edu.co"
+        "correo_mentor": "colegiocalasanz@ccb.edu.co; rectoria@ccb.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -641,7 +596,8 @@
         "direccion_mentor": "KR 7 174 80",
         "telefono_mentor": "6711079\n 3175051162",
         "rector_mentor": "JORGE ALEJANDRO MEDELLIN BECERRA",
-        "correo_mentor": "asisrectoria@claustromoderno.edu.co; rectoria@claustromoderno.edu.co"
+        "correo_mentor": "asisrectoria@claustromoderno.edu.co; rectoria@claustromoderno.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -655,7 +611,8 @@
         "direccion_mentor": "AK 19 152 A 48",
         "telefono_mentor": "2595700 -- 2595721 -- 6270726 -- 2595703\n311876003",
         "rector_mentor": "MICHAEL JOHN CHAPMAN",
-        "correo_mentor": "aortiz@anglocolombiano.edu.co; humanresources@anglocolombiano.edu.co; mchapman@anglo.edu.co   avasquez@anglo.edu.co"
+        "correo_mentor": "aortiz@anglocolombiano.edu.co; humanresources@anglocolombiano.edu.co; mchapman@anglo.edu.co   avasquez@anglo.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -669,7 +626,8 @@
         "direccion_mentor": "KR 53 222 76",
         "telefono_mentor": "6763865 6763864 \n  6763866 6763836 -- 676006\n 3213708452",
         "rector_mentor": "DINSTITUCI\u00d3N EDUCATIVAGO FERNANDO SANCHEZ HURTADO",
-        "correo_mentor": "academica@cbr.edu.co; \n rectoria@cbr.edu.co"
+        "correo_mentor": "academica@cbr.edu.co; \n rectoria@cbr.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -683,7 +641,8 @@
         "direccion_mentor": "71c #51-3J",
         "telefono_mentor": "2251109 \/ 2401331",
         "rector_mentor": "Esperanza Morales SarmINSTITUCI\u00d3N EDUCATIVAnto",
-        "correo_mentor": "liceo.vida.amor.luz1@gmail.com"
+        "correo_mentor": "liceo.vida.amor.luz1@gmail.com",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1 D.C.",
@@ -697,217 +656,8 @@
         "direccion_mentor": "DG 83 73 A 12",
         "telefono_mentor": "2760358",
         "rector_mentor": "BLANCA ISABEL PEREZ ORTIZ",
-        "correo_mentor": ""
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "1",
-        "acomp": "INSTITUCION EDUCATIVA INSTITUTO MANIZALES",
-        "direccion_acomp": "CL 28 16 27",
-        "telefono_acomp": "8833990",
-        "rector_acomp": "FRANCIS RODRIGO OTERO GIL",
-        "correo_acomp": "otergil7@hotamil.com,",
-        "mentor": "COLEGIO DE NUESTRA SE\u00d1ORA. DEL ROSARIO",
-        "direccion_mentor": "KR 22 56 31",
-        "telefono_mentor": "8851203",
-        "rector_mentor": "SOR INES DE JESUS TORRES DUARTE",
-        "correo_mentor": "SECRETARIACOLROSARIO@UNE%20.NET.CO\";\",INSTITUCI\u00d3N EDUCATIVAnsrosario@gmail.com\")"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "2",
-        "acomp": "INSTITUCION EDUCATIVA  SAN FERNANDO",
-        "direccion_acomp": "IND CLL 70 NO 23-20 SAN FERNANDO CUBA",
-        "telefono_acomp": "3271076 3372448 323 3134",
-        "rector_acomp": "NOLBERTO DE JESUS VALENCIA NINSTITUCI\u00d3N EDUCATIVATO",
-        "correo_acomp": "noval098@hotmail.com",
-        "mentor": "LICEO CAMPESTRE DE PEREIRA",
-        "direccion_mentor": "KM 11 ENTRADA 10 SAN ISIDRO",
-        "telefono_mentor": "3279206 -3279203",
-        "rector_mentor": "ROCIO DE LA PAVA LOPEZ",
-        "correo_mentor": "secretaria@liceocampestredepereira.edu.co, rociodelapava@hotmail.com"
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "3",
-        "acomp": "INSTITUCION EDUCATIVA JAIME DUQUE GRISALES",
-        "direccion_acomp": "KR 3 5 06",
-        "telefono_acomp": "8771850",
-        "rector_acomp": "GUSTAVO CEBALLOS BURITICA",
-        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAv1990@hotmail.com",
-        "mentor": "GIMNASIO HORIZONTES",
-        "direccion_mentor": "PARAJE LA FLORIDA",
-        "telefono_mentor": "8745803",
-        "rector_mentor": "MIGUEL FLORES MOYOLLON",
-        "correo_mentor": "rectoria@horizontes.edu.co, info@horizontes.edu.co"
-    },
-    {
-        "departamento": "QUINDIO",
-        "pareja": "4",
-        "acomp": "CRISTOBAL COLON",
-        "direccion_acomp": "KR 24 A CL 17 EQ",
-        "telefono_acomp": "7355554 3125090693",
-        "rector_acomp": "NICOLAS  ALBEIRO G\u00d3MEZ  TAMAYO",
-        "correo_acomp": "nicolasalbeirog@yahoo.com",
-        "mentor": "GIMNACIO CONTEMPORANERO",
-        "direccion_mentor": "CL 4 NORTE 13 06",
-        "telefono_mentor": "7454766\/3108421448",
-        "rector_mentor": "LUZ LLAMILET ALZATE ROMAN",
-        "correo_mentor": "llamiletalzat@hotmail.com"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "5",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA LA INMACULADA",
-        "direccion_acomp": "KR 8 39 40",
-        "telefono_acomp": "3113052545",
-        "rector_acomp": "LUZ ELENA PEREZ PEREZ",
-        "correo_acomp": "lueperez12@hotmail.com",
-        "mentor": "LICEO TALLER SAN MIGUEL",
-        "direccion_mentor": "CALLE 11 22-35",
-        "telefono_mentor": "3151818",
-        "rector_mentor": "ANA ISABEL JIM\u00c9NEZ VALENCIA",
-        "correo_mentor": "info@tallersanmiguel.edu.co,info@tallersanmiguel.edu.co"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "6",
-        "acomp": "INSTITUCI\u00d3N EDUCQATIVA ALFONSO JARAMILLO",
-        "direccion_acomp": "KR 25 77 18",
-        "telefono_acomp": "3275590 -3278800",
-        "rector_acomp": "CARLOS ABRAHAM VILLALBA BAZA",
-        "correo_acomp": "cavillalba@gmail.com",
-        "mentor": "COLEGIO CORPORACION PINO VERDE",
-        "direccion_mentor": "KM. 5 VIA CERRITOS EL TIGRE",
-        "telefono_mentor": "3132682 - 3132682",
-        "rector_mentor": "LUZ STELLA RIOS PATI\u00d1O",
-        "correo_mentor": "info@liceopinoverde.edu.co, stella.rios@lpv.edu.co"
-    },
-    {
-        "departamento": "QUINDIO",
-        "pareja": "7",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA Ciudadela del Sur",
-        "direccion_acomp": "IND MZ 11",
-        "telefono_acomp": "7474757-3187164788",
-        "rector_acomp": "MARCELO GALLEGO MARULANDA",
-        "correo_acomp": "marcelogallego@gmail.com",
-        "mentor": "Colegio San Luis Rey",
-        "direccion_mentor": "AV BOLIVAR 40 77",
-        "telefono_mentor": "7493501.32052106",
-        "rector_mentor": "FRAY MANUEL ANTONIO MU\u00d1OZ GIRON",
-        "correo_mentor": "fmag@hotmail.com"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "8",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA AQUILINO BEDOYA",
-        "direccion_acomp": "AV 30 DE AGOSTO NO 62-59",
-        "telefono_acomp": "3113154881",
-        "rector_acomp": "URINSTITUCI\u00d3N EDUCATIVAL GONZALEZ",
-        "correo_acomp": "urINSTITUCI\u00d3N EDUCATIVAlgr@gmail.com",
-        "mentor": "COLEGIO LA SALLE",
-        "direccion_mentor": "KM 6 VIA CARTAGO",
-        "telefono_mentor": "3379373",
-        "rector_mentor": "ANDRES FERNANDO GONZ\u00c1LEZ L\u00d3PEZ",
-        "correo_mentor": "delasallepereira@gmail.com"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "9",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA RAFAEL URIBE URIBE",
-        "direccion_acomp": "CL 27 7 72",
-        "telefono_acomp": "315 4127386",
-        "rector_acomp": "MARIA TERESA GONZALEZ REYES",
-        "correo_acomp": "rectoria@INSTITUCI\u00d3N EDUCATIVAuu.edu.co",
-        "mentor": "COLEGIO LICEO FRANCES DE PEREIRA",
-        "direccion_mentor": "VIA ARMENIA KM 5",
-        "telefono_mentor": "315 23 55 - 314 6172639",
-        "rector_mentor": "MARTINE PARDOUX",
-        "correo_mentor": "contact@lfp.edu.co,mpardoux@lfp.edu.co"
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "10",
-        "acomp": "INSTITUCION EDUCATIVA GERARDO ARIAS",
-        "direccion_acomp": "CARRERA 8 NO 5-58",
-        "telefono_acomp": "8770291 - 8777372",
-        "rector_acomp": "ARCILA MARIN GERMAN",
-        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAgerardoariasramirez@sedcaldas.gov.co",
-        "mentor": "COLEGIO GRANADINO",
-        "direccion_mentor": "VEREDA LA FLORIDA",
-        "telefono_mentor": "8745774",
-        "rector_mentor": "ROBERT ALLANS SIMS",
-        "correo_mentor": "colgranadino@granadino.edu.co, rsims@granadino.edu.co,"
-    },
-    {
-        "departamento": "RISARALDA",
-        "pareja": "11",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA CIUDADELA CUBA",
-        "direccion_acomp": "CL 71 KR 28 BR LOS CRISTALES",
-        "telefono_acomp": "3122590275",
-        "rector_acomp": "FRANCISCO JAVINSTITUCI\u00d3N EDUCATIVAR SALAZAR MARQUEZ",
-        "correo_acomp": "frichoma0415@hotamil.com",
-        "mentor": "FUNDACI\u00d3N GIMNASIO PEREIRA",
-        "direccion_mentor": "KR 13 3 E 99",
-        "telefono_mentor": "3314458",
-        "rector_mentor": "PIEDAD ISAZA VALLEJO",
-        "correo_mentor": "admin@gimnasiopereira.edu.co, direcciongeneral@gimnasiopereira.edu.co"
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "12",
-        "acomp": "INSTITUCION EDUCATIVA  LA SULTANA",
-        "direccion_acomp": "CARRERA 9 CALLE 66A",
-        "telefono_acomp": "8754548",
-        "rector_acomp": "ORLANDO PERALTA",
-        "correo_acomp": "horsa40@hotmail.com",
-        "mentor": "LICEO SAN RAFAEL",
-        "direccion_mentor": "MZ J CASA 6 LA HABANA",
-        "telefono_mentor": "3270149",
-        "rector_mentor": "PADRE JAIME PULIDO",
-        "correo_mentor": "academica@institutosanrafael.edu.co"
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "13",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA Santa Luisa de Marillac",
-        "direccion_acomp": "Calle 5 no. 3-55",
-        "telefono_acomp": "87770113",
-        "rector_acomp": "Sor Mar\u00eda Cristina Trejos",
-        "correo_acomp": "sormariacristina@hotmail.com",
-        "mentor": "LICEO APRENDER",
-        "direccion_mentor": "Cra 4 no.13-41",
-        "telefono_mentor": "8773672 8770843",
-        "rector_mentor": "Fernando Gaviria Puerta",
-        "correo_mentor": "liceoaprender@hotmail.es"
-    },
-    {
-        "departamento": "CALDAS",
-        "pareja": "14",
-        "acomp": "INSTITUCION EDUCATIVA NUESTRA SE\u00d1ORA DEL ROSARIO",
-        "direccion_acomp": "LA FLORIDA",
-        "telefono_acomp": "8741317",
-        "rector_acomp": "LUIS HEBERTH LOPEZ CALDERON",
-        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAnsrosario@gmail.com",
-        "mentor": "COLEGIO ANGLOHISPANO",
-        "direccion_mentor": "IND HACINSTITUCI\u00d3N EDUCATIVANDA VILLACLARA",
-        "telefono_mentor": "8749339",
-        "rector_mentor": "JOSE JESUS LONDO\u00d1O",
-        "correo_mentor": "josejesuslondono@yahoo.es"
-    },
-    {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "1",
-        "acomp": "INSTITUCION EDUCATIVA DEPARTAMENTAL DE BACHILLERATO TECNICO COMERCIA",
-        "direccion_acomp": "CALLE 13 No. 10-20 FINCA TABOIMA",
-        "telefono_acomp": "8785482 - 310 8602531",
-        "rector_acomp": "EVA DEL CARMEN RUBIANO DE JIMENEZ",
-        "correo_acomp": "IEDtecnicocomercial@hotmail.com",
-        "mentor": "COLEGIO SAN PAULO",
-        "direccion_mentor": "CL 7 6 49",
-        "telefono_mentor": "3115013324 - 3113621961",
-        "rector_mentor": "EVA CRISTINA SARMINSTITUCI\u00d3N EDUCATIVANTO SARMINSTITUCI\u00d3N EDUCATIVANTO",
-        "correo_mentor": "cristinasarmINSTITUCI\u00d3N EDUCATIVAntosar@hotmail.com,     colsanpaulotocancipa@outlook.com"
+        "correo_mentor": "",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -921,7 +671,8 @@
         "direccion_mentor": "Carrera 45 No 26-85 - Edificio UrINSTITUCI\u00d3N EDUCATIVAl Guti\u00e9rrez",
         "telefono_mentor": "3165000",
         "rector_mentor": "VICTOR MANUEL NEIRA RODR\u00cdGUEZ",
-        "correo_mentor": "vmneirar@unal.edu.co"
+        "correo_mentor": "vmneirar@unal.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -935,21 +686,8 @@
         "direccion_mentor": "Carrera 45 No 26-85 - Edificio UrINSTITUCI\u00d3N EDUCATIVAl Guti\u00e9rrez",
         "telefono_mentor": "3165000",
         "rector_mentor": "VICTOR MANUEL NEIRA RODR\u00cdGUEZ",
-        "correo_mentor": "vmneirar@unal.edu.co"
-    },
-    {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "4",
-        "acomp": "IINSTITUCION EDUCATIVA DEPARTAMENTAL RURAL INTEGRADO",
-        "direccion_acomp": "LA CALERA CUNDINAMARCA VDA STA INES",
-        "telefono_acomp": "312-3512674",
-        "rector_acomp": "Marco Tulio Hern\u00e1ndez",
-        "correo_acomp": "rector.IEDrintegradolacalera@gmail.com",
-        "mentor": "COLEGIO TILATA - SEDE PRINCIPAL",
-        "direccion_mentor": "KM 9 VIA LA CALERA",
-        "telefono_mentor": "5921414 \/ 5921411",
-        "rector_mentor": "MARIA ISABEL CASAS ANDRADE",
-        "correo_mentor": "tilata@colegiotilata.edu.co,mariaisabelcasas@colegiotilata.edu.co"
+        "correo_mentor": "vmneirar@unal.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1",
@@ -963,21 +701,8 @@
         "direccion_mentor": "KR 92 156 88",
         "telefono_mentor": "4324000",
         "rector_mentor": "JAIME HERNANDO ACOSTA ALLEN",
-        "correo_mentor": "sanjorge@sgs.edu.co"
-    },
-    {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "6",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA  EDUCATIVA DEPARTAMENTAL INSTITUTO PARCELAS",
-        "direccion_acomp": "VEREDA PARCELAS",
-        "telefono_acomp": "3106794031",
-        "rector_acomp": "JORGE ALBERTO PARRA NEIRA",
-        "correo_acomp": "IEDinstitutoparcelas@gmail.com",
-        "mentor": "COLEGIO JOSE MAX LEON",
-        "direccion_mentor": "Kilometro 2,7 V\u00eda Sibera - Cota, 22 y 23, Buenavista,",
-        "telefono_mentor": "5870747 Ext. 4",
-        "rector_mentor": "CONSUELO LEON DE STEENKIST",
-        "correo_mentor": "rectoria@josemaxleon.edu.co asistente.rectoria@josemaxleon.edu.co"
+        "correo_mentor": "sanjorge@sgs.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -991,7 +716,8 @@
         "direccion_mentor": "CL 195 54 75",
         "telefono_mentor": "6748070 Ext. 132 - 106",
         "rector_mentor": "RAQUEL LUCIA ROJAS DE PEREZ",
-        "correo_mentor": "rectoria@gimnasiovermont.edu.co"
+        "correo_mentor": "rectoria@gimnasiovermont.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -1005,21 +731,8 @@
         "direccion_mentor": "CL 195 54 75",
         "telefono_mentor": "6748070 Ext. 132 - 106",
         "rector_mentor": "RAQUEL LUCIA ROJAS DE PEREZ",
-        "correo_mentor": "rectoria@gimnasiovermont.edu.co"
-    },
-    {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "9",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA  JUAN LUIS LONDO\u00d1O DE LA CUESTA",
-        "direccion_acomp": "CL 3 2 85",
-        "telefono_acomp": "8932147",
-        "rector_acomp": "CLAUDIA MARCELA CAMPOS HERNANDEZ",
-        "correo_acomp": "claudiarectora@gmail.com,coordinacionacademicajll@gmail.com",
-        "mentor": "COLEGIO BILING\u00dcE MELANINSTITUCI\u00d3N EDUCATIVA KLEIN SCHOOL - SEDE PRINCIPAL",
-        "direccion_mentor": "Cra 2 Este No. 00 - 30",
-        "telefono_mentor": "893 1681 - 893 1680 - 8931321",
-        "rector_mentor": "OLGAMARIN GALINDO",
-        "correo_mentor": "melanINSTITUCI\u00d3N EDUCATIVAkleinschool@gmail.com"
+        "correo_mentor": "rectoria@gimnasiovermont.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -1033,7 +746,8 @@
         "direccion_mentor": "Kil\u00f3metro 4 v\u00eda Suba Cota",
         "telefono_mentor": "57(1) 6836755\/ Fax: 57(1) 6861331",
         "rector_mentor": "MARTHA BONILLA",
-        "correo_mentor": "Info@liceojuanramonjimenez.edu.co%20\/\";\"Info@liceojuanramonjimenez.edu.co \/ \")"
+        "correo_mentor": "Info@liceojuanramonjimenez.edu.co%20\/\";\"Info@liceojuanramonjimenez.edu.co \/ \")",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOYAC\u00c1",
@@ -1047,7 +761,8 @@
         "direccion_mentor": "CL 28 8 50",
         "telefono_mentor": "7717333",
         "rector_mentor": "EDGAR HIPOLITO ESLAVA CORREA",
-        "correo_mentor": "colegiocedhu@gmail.com,nancy.camargo@cedhu.edu.co"
+        "correo_mentor": "colegiocedhu@gmail.com,nancy.camargo@cedhu.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOT\u00c1",
@@ -1061,7 +776,8 @@
         "direccion_mentor": "IND AV GUAIMARAL COSTADO SUR AEROPUERTO",
         "telefono_mentor": "6684910",
         "rector_mentor": "GERM\u00c1N ALONSO GALLO GRAU",
-        "correo_mentor": "ggallo@colegiocolombogales.edu.co svelasquez@colegiocolombogales.edu.co"
+        "correo_mentor": "ggallo@colegiocolombogales.edu.co svelasquez@colegiocolombogales.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "BOGOTA",
@@ -1075,35 +791,23 @@
         "direccion_mentor": "Carrera 111A y Carrera 110, Cl. 83 #110-58",
         "telefono_mentor": "\u00a04318588, 4318181",
         "rector_mentor": "CLAUDIA FERNANDA MONRROY GUERRERO",
-        "correo_mentor": "colegioceic@colsubsidio.com"
+        "correo_mentor": "colegioceic@colsubsidio.com",
+        "index": "CO-BOL"
     },
     {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "14",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA LA MERCED",
-        "direccion_acomp": "CALLE 3 NO 2-50",
-        "telefono_acomp": "8276216",
-        "rector_acomp": "JOSE RAFAEL PE\u00d1A FERNANDEZ",
-        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAlamerced@gmail.com",
-        "mentor": "GIMNASIO CAMPESTRE MARINSTITUCI\u00d3N EDUCATIVA CURINSTITUCI\u00d3N EDUCATIVA",
-        "direccion_mentor": "Carrera 106 Zona Franca Vereda San Francisco",
-        "telefono_mentor": "4188019 Celular 3208374774",
-        "rector_mentor": "GERMAN RODRIGUEZ",
-        "correo_mentor": "campestremarINSTITUCI\u00d3N EDUCATIVAcurINSTITUCI\u00d3N EDUCATIVA@yahoo.com\";\"campestremarINSTITUCI\u00d3N EDUCATIVAcurINSTITUCI\u00d3N EDUCATIVA@yahoo.com\")"
-    },
-    {
-        "departamento": "CUNDINAMARCA",
-        "pareja": "15",
-        "acomp": "INSTITUCI\u00d3N EDUCATIVA .R.D. EL SALITRE",
-        "direccion_acomp": "VDA. EL SALITRE",
-        "telefono_acomp": "8740062",
-        "rector_acomp": "MARIO EDUARDO THIRIAT ROJAS",
-        "correo_acomp": "colegioelsalitre@hotmail.com",
-        "mentor": "COLEGIO HACINSTITUCI\u00d3N EDUCATIVANDA LOS ALCAPARROS",
-        "direccion_mentor": "VIA LA CALERA KM 3 VDA EL SALITRE",
-        "telefono_mentor": "5922266",
-        "rector_mentor": "MARIA TERESA BOTERO MEDINA",
-        "correo_mentor": "alcaparros@gmail.com, secretariaacademica@alcaparros.edu.co\nsecretariaacademica@alcaparros.edu.co"
+        "departamento": "",
+        "pareja": "4",
+        "acomp": "COLEGIO NUEVA ZELANDIA",
+        "direccion_acomp": "CL 181 # 51 A - 31",
+        "telefono_acomp": "6720103",
+        "rector_acomp": "ALBA SALAZAR RAMIREZ",
+        "correo_acomp": "cednvazelandia11@redp.edu.co\";\"cednvazelandia11@redp.edu.co\")",
+        "mentor": "COLEGIO NUEVA INGLATERRA",
+        "direccion_mentor": "Calle 218 No. 50 - 60",
+        "telefono_mentor": "\u00a06760788\u00a0",
+        "rector_mentor": "DARBY ALMANZA",
+        "correo_mentor": "sec_academica@colegionuevainglaterra.edu.co",
+        "index": "CO-BOL"
     },
     {
         "departamento": "",
@@ -1117,21 +821,263 @@
         "direccion_mentor": "CL 227 49 64",
         "telefono_mentor": "6684890 -- 6760408",
         "rector_mentor": "ADELA CRUZ LOPEZ",
-        "correo_mentor": "acruz@colegionuevayork.edu.co\";\"acruz@colegionuevayork.edu.co\")"
+        "correo_mentor": "acruz@colegionuevayork.edu.co\";\"acruz@colegionuevayork.edu.co\")",
+        "index": "CO-BOL"
     },
     {
-        "departamento": "SANTANDER",
+        "departamento": "BOLIVAR",
         "pareja": "1",
-        "acomp": "COLEGIO GONZALO JIMENEZ NAVAS",
-        "direccion_acomp": "CL 35 7 E 5 LA CUMBRE",
-        "telefono_acomp": "6581633-11",
-        "rector_acomp": "JOSE DE JESUS LOZANO CARDENAS",
-        "correo_acomp": "colnavas@gmail.com",
-        "mentor": "Colegio Nuevo Cambridge",
-        "direccion_mentor": "Cl. 32 #22-140",
-        "telefono_mentor": "6386152",
-        "rector_mentor": "TELMO PE\u00d1A",
-        "correo_mentor": "tpena@Cambridge.edu.co"
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA EL BUEN AIRE PASACABALLOS",
+        "direccion_acomp": "PASACABALLOS - ST NUEVO PORVENIR KR 62 CL 22",
+        "telefono_acomp": "3145533612 -3053421357",
+        "rector_acomp": "LEONIDAS BARCOS HERNANDEZ",
+        "correo_acomp": "censbapasacaballos@hotmail.com; leonidasbarco@gmail.com",
+        "mentor": "CORPORACION INSTITUTO DOCENTE DE CARIBE",
+        "direccion_mentor": "PIEDRA DE BOLIVAR CALLE SANTA CRUZ (30A) No. 50-97",
+        "telefono_mentor": "57-5-6722701   3185245429",
+        "rector_mentor": "ARNOLD BARRIOS PAEZ",
+        "correo_mentor": "idc146@yahoo.es",
+        "index": "CO-BOY"
+    },
+    {
+        "departamento": "BOLIVAR",
+        "pareja": "2",
+        "acomp": "INSTITUCION EDUCATIVA VILLA ESTRELLA",
+        "direccion_acomp": "Barrio Villa Estrella, calle Ppal No. 36-31-15",
+        "telefono_acomp": "3007474313",
+        "rector_acomp": "DILIA ESTHER MAR\u00cdN ARIAS",
+        "correo_acomp": "marianarias65@hotmail.com",
+        "mentor": "CENTRO DE ENSE\u00d1ANZA PRECOZ NUEVO MUNDO",
+        "direccion_mentor": "MANGA AV ALFONSO ARAUJO # 26 \u2013 02",
+        "telefono_mentor": "TEL. 6607557 ; 6609001  3114069580",
+        "rector_mentor": "MANUEL MENDIVIL CASTILLO",
+        "correo_mentor": "mmendivilc@gmail.com;",
+        "index": "CO-BOY"
+    },
+    {
+        "departamento": "BOLIVAR",
+        "pareja": "3",
+        "acomp": "INSTITUCION EDUCATIVA CORAZON DE MARIA",
+        "direccion_acomp": "San Francisco Cra.19#77-21 (Al lado del CAI se Sn.fco,)",
+        "telefono_acomp": "3164447063",
+        "rector_acomp": "F\u00c9LIX CABALLERO ARIAS - 3135121290",
+        "correo_acomp": "imarunto@hotmail.com;",
+        "mentor": "CENTRO DE ENSE\u00d1ANZA PRECOZ NUEVO MUNDO",
+        "direccion_mentor": "MANGA AV ALFONSO ARAUJO # 26 \u2013 02",
+        "telefono_mentor": "TEL. 6607557 ; 6609001  3114069580",
+        "rector_mentor": "MANUEL MENDIVIL CASTILLO",
+        "correo_mentor": "mmendivilc@gmail.com;",
+        "index": "CO-BOY"
+    },
+    {
+        "departamento": "BOLIVAR",
+        "pareja": "4",
+        "acomp": "INSTITUCION EDUCATIVAFULGENCIO LEQUERICA",
+        "direccion_acomp": "Chiquinquir\u00e1 Mz. 56- Lt. 1(detr\u00e1s del ICBF de",
+        "telefono_acomp": "3008370486 3126974505",
+        "rector_acomp": "CARMEN MARIA RANGEL SEPULVEA",
+        "correo_acomp": "jubaro2011@hotmail.com;",
+        "mentor": "COLEGIO LOS ANGELES",
+        "direccion_mentor": "URB LOS ANGELES CLL 30 # 62-83",
+        "telefono_mentor": "TEL. 6610972 ; 6531345   3016160714",
+        "rector_mentor": "BETTY GUERRA OVIEDO",
+        "correo_mentor": "albamencolozano@hotmail.com;",
+        "index": "CO-BOY"
+    },
+    {
+        "departamento": "BOLIVAR",
+        "pareja": "5",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA SAN JUAN DE DAMASCO",
+        "direccion_acomp": "AMBERES 1 ER CALLEJON CRA 41 # 26C-38",
+        "telefono_acomp": "3008007276",
+        "rector_acomp": "NELLY ZAMMATA DE OROZCO",
+        "correo_acomp": "nezama125512@hotmail.com",
+        "mentor": "COLEGIO ALMIRANTE COL\u00d3N",
+        "direccion_mentor": "ALMIRANTE COLON M Y LOTE 1  ETAPA 2",
+        "telefono_mentor": "6570210 ;  6573378  3016735497",
+        "rector_mentor": "JORGE ISAAC CORREA JIMENEZ",
+        "correo_mentor": "colemilitar3105@hotmail.com",
+        "index": "CO-BOY"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "1",
+        "acomp": "INSTITUCION EDUCATIVA INSTITUTO MANIZALES",
+        "direccion_acomp": "CL 28 16 27",
+        "telefono_acomp": "8833990",
+        "rector_acomp": "FRANCIS RODRIGO OTERO GIL",
+        "correo_acomp": "otergil7@hotamil.com,",
+        "mentor": "COLEGIO DE NUESTRA SE\u00d1ORA. DEL ROSARIO",
+        "direccion_mentor": "KR 22 56 31",
+        "telefono_mentor": "8851203",
+        "rector_mentor": "SOR INES DE JESUS TORRES DUARTE",
+        "correo_mentor": "SECRETARIACOLROSARIO@UNE%20.NET.CO\";\",INSTITUCI\u00d3N EDUCATIVAnsrosario@gmail.com\")",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "3",
+        "acomp": "INSTITUCION EDUCATIVA JAIME DUQUE GRISALES",
+        "direccion_acomp": "KR 3 5 06",
+        "telefono_acomp": "8771850",
+        "rector_acomp": "GUSTAVO CEBALLOS BURITICA",
+        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAv1990@hotmail.com",
+        "mentor": "GIMNASIO HORIZONTES",
+        "direccion_mentor": "PARAJE LA FLORIDA",
+        "telefono_mentor": "8745803",
+        "rector_mentor": "MIGUEL FLORES MOYOLLON",
+        "correo_mentor": "rectoria@horizontes.edu.co, info@horizontes.edu.co",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "10",
+        "acomp": "INSTITUCION EDUCATIVA GERARDO ARIAS",
+        "direccion_acomp": "CARRERA 8 NO 5-58",
+        "telefono_acomp": "8770291 - 8777372",
+        "rector_acomp": "ARCILA MARIN GERMAN",
+        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAgerardoariasramirez@sedcaldas.gov.co",
+        "mentor": "COLEGIO GRANADINO",
+        "direccion_mentor": "VEREDA LA FLORIDA",
+        "telefono_mentor": "8745774",
+        "rector_mentor": "ROBERT ALLANS SIMS",
+        "correo_mentor": "colgranadino@granadino.edu.co, rsims@granadino.edu.co,",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "12",
+        "acomp": "INSTITUCION EDUCATIVA  LA SULTANA",
+        "direccion_acomp": "CARRERA 9 CALLE 66A",
+        "telefono_acomp": "8754548",
+        "rector_acomp": "ORLANDO PERALTA",
+        "correo_acomp": "horsa40@hotmail.com",
+        "mentor": "LICEO SAN RAFAEL",
+        "direccion_mentor": "MZ J CASA 6 LA HABANA",
+        "telefono_mentor": "3270149",
+        "rector_mentor": "PADRE JAIME PULIDO",
+        "correo_mentor": "academica@institutosanrafael.edu.co",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "13",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA Santa Luisa de Marillac",
+        "direccion_acomp": "Calle 5 no. 3-55",
+        "telefono_acomp": "87770113",
+        "rector_acomp": "Sor Mar\u00eda Cristina Trejos",
+        "correo_acomp": "sormariacristina@hotmail.com",
+        "mentor": "LICEO APRENDER",
+        "direccion_mentor": "Cra 4 no.13-41",
+        "telefono_mentor": "8773672 8770843",
+        "rector_mentor": "Fernando Gaviria Puerta",
+        "correo_mentor": "liceoaprender@hotmail.es",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CALDAS",
+        "pareja": "14",
+        "acomp": "INSTITUCION EDUCATIVA NUESTRA SE\u00d1ORA DEL ROSARIO",
+        "direccion_acomp": "LA FLORIDA",
+        "telefono_acomp": "8741317",
+        "rector_acomp": "LUIS HEBERTH LOPEZ CALDERON",
+        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAnsrosario@gmail.com",
+        "mentor": "COLEGIO ANGLOHISPANO",
+        "direccion_mentor": "IND HACINSTITUCI\u00d3N EDUCATIVANDA VILLACLARA",
+        "telefono_mentor": "8749339",
+        "rector_mentor": "JOSE JESUS LONDO\u00d1O",
+        "correo_mentor": "josejesuslondono@yahoo.es",
+        "index": "CO-CAQ"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "1",
+        "acomp": "INSTITUCION EDUCATIVA DEPARTAMENTAL DE BACHILLERATO TECNICO COMERCIA",
+        "direccion_acomp": "CALLE 13 No. 10-20 FINCA TABOIMA",
+        "telefono_acomp": "8785482 - 310 8602531",
+        "rector_acomp": "EVA DEL CARMEN RUBIANO DE JIMENEZ",
+        "correo_acomp": "IEDtecnicocomercial@hotmail.com",
+        "mentor": "COLEGIO SAN PAULO",
+        "direccion_mentor": "CL 7 6 49",
+        "telefono_mentor": "3115013324 - 3113621961",
+        "rector_mentor": "EVA CRISTINA SARMINSTITUCI\u00d3N EDUCATIVANTO SARMINSTITUCI\u00d3N EDUCATIVANTO",
+        "correo_mentor": "cristinasarmINSTITUCI\u00d3N EDUCATIVAntosar@hotmail.com,     colsanpaulotocancipa@outlook.com",
+        "index": "CO-DC"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "4",
+        "acomp": "IINSTITUCION EDUCATIVA DEPARTAMENTAL RURAL INTEGRADO",
+        "direccion_acomp": "LA CALERA CUNDINAMARCA VDA STA INES",
+        "telefono_acomp": "312-3512674",
+        "rector_acomp": "Marco Tulio Hern\u00e1ndez",
+        "correo_acomp": "rector.IEDrintegradolacalera@gmail.com",
+        "mentor": "COLEGIO TILATA - SEDE PRINCIPAL",
+        "direccion_mentor": "KM 9 VIA LA CALERA",
+        "telefono_mentor": "5921414 \/ 5921411",
+        "rector_mentor": "MARIA ISABEL CASAS ANDRADE",
+        "correo_mentor": "tilata@colegiotilata.edu.co,mariaisabelcasas@colegiotilata.edu.co",
+        "index": "CO-DC"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "6",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA  EDUCATIVA DEPARTAMENTAL INSTITUTO PARCELAS",
+        "direccion_acomp": "VEREDA PARCELAS",
+        "telefono_acomp": "3106794031",
+        "rector_acomp": "JORGE ALBERTO PARRA NEIRA",
+        "correo_acomp": "IEDinstitutoparcelas@gmail.com",
+        "mentor": "COLEGIO JOSE MAX LEON",
+        "direccion_mentor": "Kilometro 2,7 V\u00eda Sibera - Cota, 22 y 23, Buenavista,",
+        "telefono_mentor": "5870747 Ext. 4",
+        "rector_mentor": "CONSUELO LEON DE STEENKIST",
+        "correo_mentor": "rectoria@josemaxleon.edu.co asistente.rectoria@josemaxleon.edu.co",
+        "index": "CO-DC"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "9",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA  JUAN LUIS LONDO\u00d1O DE LA CUESTA",
+        "direccion_acomp": "CL 3 2 85",
+        "telefono_acomp": "8932147",
+        "rector_acomp": "CLAUDIA MARCELA CAMPOS HERNANDEZ",
+        "correo_acomp": "claudiarectora@gmail.com,coordinacionacademicajll@gmail.com",
+        "mentor": "COLEGIO BILING\u00dcE MELANINSTITUCI\u00d3N EDUCATIVA KLEIN SCHOOL - SEDE PRINCIPAL",
+        "direccion_mentor": "Cra 2 Este No. 00 - 30",
+        "telefono_mentor": "893 1681 - 893 1680 - 8931321",
+        "rector_mentor": "OLGAMARIN GALINDO",
+        "correo_mentor": "melanINSTITUCI\u00d3N EDUCATIVAkleinschool@gmail.com",
+        "index": "CO-DC"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "14",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA LA MERCED",
+        "direccion_acomp": "CALLE 3 NO 2-50",
+        "telefono_acomp": "8276216",
+        "rector_acomp": "JOSE RAFAEL PE\u00d1A FERNANDEZ",
+        "correo_acomp": "INSTITUCI\u00d3N EDUCATIVAlamerced@gmail.com",
+        "mentor": "GIMNASIO CAMPESTRE MARINSTITUCI\u00d3N EDUCATIVA CURINSTITUCI\u00d3N EDUCATIVA",
+        "direccion_mentor": "Carrera 106 Zona Franca Vereda San Francisco",
+        "telefono_mentor": "4188019 Celular 3208374774",
+        "rector_mentor": "GERMAN RODRIGUEZ",
+        "correo_mentor": "campestremarINSTITUCI\u00d3N EDUCATIVAcurINSTITUCI\u00d3N EDUCATIVA@yahoo.com\";\"campestremarINSTITUCI\u00d3N EDUCATIVAcurINSTITUCI\u00d3N EDUCATIVA@yahoo.com\")",
+        "index": "CO-DC"
+    },
+    {
+        "departamento": "CUNDINAMARCA",
+        "pareja": "15",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA .R.D. EL SALITRE",
+        "direccion_acomp": "VDA. EL SALITRE",
+        "telefono_acomp": "8740062",
+        "rector_acomp": "MARIO EDUARDO THIRIAT ROJAS",
+        "correo_acomp": "colegioelsalitre@hotmail.com",
+        "mentor": "COLEGIO HACINSTITUCI\u00d3N EDUCATIVANDA LOS ALCAPARROS",
+        "direccion_mentor": "VIA LA CALERA KM 3 VDA EL SALITRE",
+        "telefono_mentor": "5922266",
+        "rector_mentor": "MARIA TERESA BOTERO MEDINA",
+        "correo_mentor": "alcaparros@gmail.com, secretariaacademica@alcaparros.edu.co\nsecretariaacademica@alcaparros.edu.co",
+        "index": "CO-DC"
     },
     {
         "departamento": "NORTE SANTANDER",
@@ -1145,7 +1091,143 @@
         "direccion_mentor": "AV 0 3 41",
         "telefono_mentor": "575-2101",
         "rector_mentor": "ALEXANDRA TARAZONA ESPINEL",
-        "correo_mentor": "secretariageneral@gimnasioelbosque.edu.co\")"
+        "correo_mentor": "secretariageneral@gimnasioelbosque.edu.co\")",
+        "index": "CO-NSA"
+    },
+    {
+        "departamento": "QUINDIO",
+        "pareja": "4",
+        "acomp": "CRISTOBAL COLON",
+        "direccion_acomp": "KR 24 A CL 17 EQ",
+        "telefono_acomp": "7355554 3125090693",
+        "rector_acomp": "NICOLAS  ALBEIRO G\u00d3MEZ  TAMAYO",
+        "correo_acomp": "nicolasalbeirog@yahoo.com",
+        "mentor": "GIMNACIO CONTEMPORANERO",
+        "direccion_mentor": "CL 4 NORTE 13 06",
+        "telefono_mentor": "7454766\/3108421448",
+        "rector_mentor": "LUZ LLAMILET ALZATE ROMAN",
+        "correo_mentor": "llamiletalzat@hotmail.com",
+        "index": "CO-QUI"
+    },
+    {
+        "departamento": "QUINDIO",
+        "pareja": "7",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA Ciudadela del Sur",
+        "direccion_acomp": "IND MZ 11",
+        "telefono_acomp": "7474757-3187164788",
+        "rector_acomp": "MARCELO GALLEGO MARULANDA",
+        "correo_acomp": "marcelogallego@gmail.com",
+        "mentor": "Colegio San Luis Rey",
+        "direccion_mentor": "AV BOLIVAR 40 77",
+        "telefono_mentor": "7493501.32052106",
+        "rector_mentor": "FRAY MANUEL ANTONIO MU\u00d1OZ GIRON",
+        "correo_mentor": "fmag@hotmail.com",
+        "index": "CO-QUI"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "2",
+        "acomp": "INSTITUCION EDUCATIVA  SAN FERNANDO",
+        "direccion_acomp": "IND CLL 70 NO 23-20 SAN FERNANDO CUBA",
+        "telefono_acomp": "3271076 3372448 323 3134",
+        "rector_acomp": "NOLBERTO DE JESUS VALENCIA NINSTITUCI\u00d3N EDUCATIVATO",
+        "correo_acomp": "noval098@hotmail.com",
+        "mentor": "LICEO CAMPESTRE DE PEREIRA",
+        "direccion_mentor": "KM 11 ENTRADA 10 SAN ISIDRO",
+        "telefono_mentor": "3279206 -3279203",
+        "rector_mentor": "ROCIO DE LA PAVA LOPEZ",
+        "correo_mentor": "secretaria@liceocampestredepereira.edu.co, rociodelapava@hotmail.com",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "5",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA LA INMACULADA",
+        "direccion_acomp": "KR 8 39 40",
+        "telefono_acomp": "3113052545",
+        "rector_acomp": "LUZ ELENA PEREZ PEREZ",
+        "correo_acomp": "lueperez12@hotmail.com",
+        "mentor": "LICEO TALLER SAN MIGUEL",
+        "direccion_mentor": "CALLE 11 22-35",
+        "telefono_mentor": "3151818",
+        "rector_mentor": "ANA ISABEL JIM\u00c9NEZ VALENCIA",
+        "correo_mentor": "info@tallersanmiguel.edu.co,info@tallersanmiguel.edu.co",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "6",
+        "acomp": "INSTITUCI\u00d3N EDUCQATIVA ALFONSO JARAMILLO",
+        "direccion_acomp": "KR 25 77 18",
+        "telefono_acomp": "3275590 -3278800",
+        "rector_acomp": "CARLOS ABRAHAM VILLALBA BAZA",
+        "correo_acomp": "cavillalba@gmail.com",
+        "mentor": "COLEGIO CORPORACION PINO VERDE",
+        "direccion_mentor": "KM. 5 VIA CERRITOS EL TIGRE",
+        "telefono_mentor": "3132682 - 3132682",
+        "rector_mentor": "LUZ STELLA RIOS PATI\u00d1O",
+        "correo_mentor": "info@liceopinoverde.edu.co, stella.rios@lpv.edu.co",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "8",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA AQUILINO BEDOYA",
+        "direccion_acomp": "AV 30 DE AGOSTO NO 62-59",
+        "telefono_acomp": "3113154881",
+        "rector_acomp": "URINSTITUCI\u00d3N EDUCATIVAL GONZALEZ",
+        "correo_acomp": "urINSTITUCI\u00d3N EDUCATIVAlgr@gmail.com",
+        "mentor": "COLEGIO LA SALLE",
+        "direccion_mentor": "KM 6 VIA CARTAGO",
+        "telefono_mentor": "3379373",
+        "rector_mentor": "ANDRES FERNANDO GONZ\u00c1LEZ L\u00d3PEZ",
+        "correo_mentor": "delasallepereira@gmail.com",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "9",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA RAFAEL URIBE URIBE",
+        "direccion_acomp": "CL 27 7 72",
+        "telefono_acomp": "315 4127386",
+        "rector_acomp": "MARIA TERESA GONZALEZ REYES",
+        "correo_acomp": "rectoria@INSTITUCI\u00d3N EDUCATIVAuu.edu.co",
+        "mentor": "COLEGIO LICEO FRANCES DE PEREIRA",
+        "direccion_mentor": "VIA ARMENIA KM 5",
+        "telefono_mentor": "315 23 55 - 314 6172639",
+        "rector_mentor": "MARTINE PARDOUX",
+        "correo_mentor": "contact@lfp.edu.co,mpardoux@lfp.edu.co",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "RISARALDA",
+        "pareja": "11",
+        "acomp": "INSTITUCI\u00d3N EDUCATIVA CIUDADELA CUBA",
+        "direccion_acomp": "CL 71 KR 28 BR LOS CRISTALES",
+        "telefono_acomp": "3122590275",
+        "rector_acomp": "FRANCISCO JAVINSTITUCI\u00d3N EDUCATIVAR SALAZAR MARQUEZ",
+        "correo_acomp": "frichoma0415@hotamil.com",
+        "mentor": "FUNDACI\u00d3N GIMNASIO PEREIRA",
+        "direccion_mentor": "KR 13 3 E 99",
+        "telefono_mentor": "3314458",
+        "rector_mentor": "PIEDAD ISAZA VALLEJO",
+        "correo_mentor": "admin@gimnasiopereira.edu.co, direcciongeneral@gimnasiopereira.edu.co",
+        "index": "CO-RIS"
+    },
+    {
+        "departamento": "SANTANDER",
+        "pareja": "1",
+        "acomp": "COLEGIO GONZALO JIMENEZ NAVAS",
+        "direccion_acomp": "CL 35 7 E 5 LA CUMBRE",
+        "telefono_acomp": "6581633-11",
+        "rector_acomp": "JOSE DE JESUS LOZANO CARDENAS",
+        "correo_acomp": "colnavas@gmail.com",
+        "mentor": "Colegio Nuevo Cambridge",
+        "direccion_mentor": "Cl. 32 #22-140",
+        "telefono_mentor": "6386152",
+        "rector_mentor": "TELMO PE\u00d1A",
+        "correo_mentor": "tpena@Cambridge.edu.co",
+        "index": "CO-SAN"
     },
     {
         "departamento": "SANTANDER",
@@ -1159,7 +1241,8 @@
         "direccion_mentor": "CENTRO ECOPETROL",
         "telefono_mentor": "6109094 - 6239792",
         "rector_mentor": "GLORIA NELY CABALLERO",
-        "correo_mentor": "rectorialopezdemesa@hotmail.com.tino@aspen.edu.co"
+        "correo_mentor": "rectorialopezdemesa@hotmail.com.tino@aspen.edu.co",
+        "index": "CO-SAN"
     },
     {
         "departamento": "SANTANDER",
@@ -1173,7 +1256,8 @@
         "direccion_mentor": "TV 25 1 93",
         "telefono_mentor": "6997910 - 6996643 - 3108516587",
         "rector_mentor": "MAURICIO OVIEDO VARON",
-        "correo_mentor": "rectoriagoyavINSTITUCI\u00d3N EDUCATIVArgmail.com,"
+        "correo_mentor": "rectoriagoyavINSTITUCI\u00d3N EDUCATIVArgmail.com,",
+        "index": "CO-SAN"
     },
     {
         "departamento": "SANTANDER",
@@ -1187,7 +1271,8 @@
         "direccion_mentor": "KR 15 DG 55 60",
         "telefono_mentor": "6201754",
         "rector_mentor": "OLGA RUBINSTITUCI\u00d3N EDUCATIVALA ORDO\u00d1EZ ARIAS",
-        "correo_mentor": "liceonuevag@yahoo.es rectoria@lng.edu.co"
+        "correo_mentor": "liceonuevag@yahoo.es rectoria@lng.edu.co",
+        "index": "CO-SAN"
     },
     {
         "departamento": "SANTANDER",
@@ -1201,7 +1286,8 @@
         "direccion_mentor": "IND GERENCIA COMPLEJO BARRANCABERMEJ",
         "telefono_mentor": "6208180  3176580910",
         "rector_mentor": "EDGAR GARCIA CANOAS",
-        "correo_mentor": "col_rosario@aspaen.edu.co,oedcarcia@aspaen.edu.co"
+        "correo_mentor": "col_rosario@aspaen.edu.co,oedcarcia@aspaen.edu.co",
+        "index": "CO-SAN"
     },
     {
         "departamento": "SANTANDER",
@@ -1215,7 +1301,8 @@
         "direccion_mentor": "KR 28 47 06",
         "telefono_mentor": "6972727",
         "rector_mentor": "LUIS EDUARDO URIBE FERRERO",
-        "correo_mentor": "rector@sanpedro.edu.co"
+        "correo_mentor": "rector@sanpedro.edu.co",
+        "index": "CO-SAN"
     },
     {
         "departamento": "VALLE",
@@ -1229,7 +1316,8 @@
         "direccion_mentor": "IND CL 50N # 4AN-56",
         "telefono_mentor": "4855850 - 51 - 52",
         "rector_mentor": "RENE PAUL SANCHEZ",
-        "correo_mentor": "secretaria@lfcali.edu.co; proviseur@lfcali.edu.co"
+        "correo_mentor": "secretaria@lfcali.edu.co; proviseur@lfcali.edu.co",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1243,7 +1331,8 @@
         "direccion_mentor": "CL 5 89 70",
         "telefono_mentor": "332-5706",
         "rector_mentor": "HECTOR MAURICIO VARGAS",
-        "correo_mentor": "sacademica@lacordaire.edu.co;  rector@lacordaire.edu.co,rector@lacordaire.edu.co"
+        "correo_mentor": "sacademica@lacordaire.edu.co;  rector@lacordaire.edu.co,rector@lacordaire.edu.co",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1257,7 +1346,8 @@
         "direccion_mentor": "CRA 125 # 10-51 CASA # 69",
         "telefono_mentor": "5555385",
         "rector_mentor": "JOHN PETER ZUMAN",
-        "correo_mentor": "rectoria@ccbcali.edu.co; jzuman@ccbcali.edu.co,"
+        "correo_mentor": "rectoria@ccbcali.edu.co; jzuman@ccbcali.edu.co,",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1271,7 +1361,8 @@
         "direccion_mentor": "KR 125 2 80",
         "telefono_mentor": "5553405",
         "rector_mentor": "GERMAN ERNESTO NINSTITUCI\u00d3N EDUCATIVATO",
-        "correo_mentor": "rector@laarboleda.edu.co; secreacademica@laarboleda.edu.co,"
+        "correo_mentor": "rector@laarboleda.edu.co; secreacademica@laarboleda.edu.co,",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1285,7 +1376,8 @@
         "direccion_mentor": "KR 33 A 12 60",
         "telefono_mentor": "3364797-98",
         "rector_mentor": "FERNANDO WALTER MARTINEZ MORENO",
-        "correo_mentor": "normasuperiorcali@hotmail.com"
+        "correo_mentor": "normasuperiorcali@hotmail.com",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1299,7 +1391,8 @@
         "direccion_mentor": "KR 1 D BIS 49 98",
         "telefono_mentor": "4462311",
         "rector_mentor": "ISABEL CRISTINA REYES RAMOS",
-        "correo_mentor": "INSTITUCI\u00d3N EDUCATIVAsimonrodriguez@hotmail.com, iscrera@hotmail.com"
+        "correo_mentor": "INSTITUCI\u00d3N EDUCATIVAsimonrodriguez@hotmail.com, iscrera@hotmail.com",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1313,7 +1406,8 @@
         "direccion_mentor": "CARRET A DAPA KM 1",
         "telefono_mentor": "6582700",
         "rector_mentor": "JUAN PABLO CAICEDO SERRANO",
-        "correo_mentor": "asisrectoria@jefferson.edu.co; rectoria@jefferson.edu.co"
+        "correo_mentor": "asisrectoria@jefferson.edu.co; rectoria@jefferson.edu.co",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1327,7 +1421,8 @@
         "direccion_mentor": "IND KILOMETRO 4 V\u00cdA JAMUND\u00cd VALLE DEL L\u00cdLI",
         "telefono_mentor": "5552727",
         "rector_mentor": "FRAY JOAQUIN ARTURO ECHEVERRY HINCAPINSTITUCI\u00d3N EDUCATIVA",
-        "correo_mentor": "secregeneral@pioxii.edu.co,rectoria@pioxii.edu.co, j_arturo51@hotmail.com"
+        "correo_mentor": "secregeneral@pioxii.edu.co,rectoria@pioxii.edu.co, j_arturo51@hotmail.com",
+        "index": "CO-VAC"
     },
     {
         "departamento": "VALLE",
@@ -1341,6 +1436,7 @@
         "direccion_mentor": "LA BUITRERA KM.3",
         "telefono_mentor": "3259000 -3259001",
         "rector_mentor": "MARIA ESPERANZA RIVAS MONTES",
-        "correo_mentor": "s.general@coldianaoese.com; e.lizita2009@hotmail.com"
+        "correo_mentor": "s.general@coldianaoese.com; e.lizita2009@hotmail.com",
+        "index": "CO-VAC"
     }
 ]

@@ -37,6 +37,7 @@ class BaseAliadosMerge {
             $dataArray[$i]['telefono_mentor'] = $entities['telefono_mentor'];
             $dataArray[$i]['rector_mentor'] = $entities['rector_mentor'];
             $dataArray[$i]['correo_mentor'] = $entities['correo_mentor'];
+            $dataArray[$i]['index'] = $entities['index'];
         }
         
         return $dataArray;
