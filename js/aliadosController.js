@@ -83,12 +83,12 @@ app.controller('aliadosController', function($scope, $http) {
                         
                         content += "<div class='panel-heading'>";
                         content += "<h4 class='panel-title'>";
-                            content += "<a data-toggle='collapse' href='#collapse_"+i+"'><table><tr><td>"+entities.mentor+"</td><td>"+entities.acomp+"</td></tr></table></a>";
+                        content += "<a data-toggle='collapse' href='#collapse_"+i+"'><table class='table-bordered' ><tr><td>"+entities.mentor+"</td><td>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr></table></a>";
                         content += "</h4>";
                         content += "</div>";
                         
                         content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
-                            content += "<div class='panel-body'>Panel Body</div>";
+                        content += "<div class='panel-body'>Panel Body</div>";
                         content += "</div>";
                         
                     }

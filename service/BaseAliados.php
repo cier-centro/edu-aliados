@@ -47,7 +47,7 @@ class BaseAliados {
             $rector_acomp = trim($sheet->getCellByColumnAndRow(12, $file)->getValue());
             $correo_acomp = trim($sheet->getCellByColumnAndRow(13, $file)->getValue());
             $municipio_acomp = trim($sheet->getCellByColumnAndRow(14, $file)->getValue());
-            $departamento_acomp = trim($sheet->getCellByColumnAndRow(5, $file)->getValue());
+            $departamento_acomp = trim($sheet->getCellByColumnAndRow(15, $file)->getValue());
             
             $mentor = trim($sheet->getCellByColumnAndRow(2, $file)->getValue());
             $direccion_mentor = trim($sheet->getCellByColumnAndRow(3, $file)->getValue());
