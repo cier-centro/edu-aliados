@@ -66,24 +66,34 @@ app.controller('aliadosController', function($scope, $http) {
             $scope.entities = [];
             var obj = {content: null};
             var content = "";
-            content += "<table class='table-responsive' align='center' border='1'>";
+            content += "<div class='panel-group'>";
+            content += "<div class='panel panel-default'>";
+            
 
             $http.get('https://dl.dropboxusercontent.com/u/575652037/edu-aliados/service/Resources/Base-aliados.json').success(function(data) {
                 obj.content = data;
+                
+                var i = 0;
+                
                 angular.forEach(obj.content, function(entities) {
                     
                     console.log(entities);
                     
                     if(entities.index == index){
-                        content += "<tr>";
-                        content += "<td>Establecimientos Educativos en Jornada \u00danica  (Fase 1-4)</td>";
-                        content += "<td>" + entities.departamento + "</td>";
-                        content += "<td>Sedes Educativas en Jornada \u00danica  (Fase 1-4)</td>";
-                        content += "<td>" + entities.region + "</td>";
-                        content += "</tr>";
+                        
+                        content += "<div class='panel-heading'>";
+                        content += "<h4 class='panel-title'>";
+                            content += "<a data-toggle='collapse' href='#collapse_"+i+"'><table><tr><td>"+entities.mentor+"</td><td>"+entities.acomp+"</td></tr></table></a>";
+                        content += "</h4>";
+                        content += "</div>";
+                        
+                        content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
+                            content += "<div class='panel-body'>Panel Body</div>";
+                        content += "</div>";
+                        
                     }
                     
-                    console.log(entities.index+' = '+index);
+                    i++;
                     
                     /*arrayEntities.push({
                         "departamento": entities.departamento,
@@ -104,7 +114,8 @@ app.controller('aliadosController', function($scope, $http) {
                     
                 });
                 
-                content += "</table>";
+                content += "</div>";
+                content += "</div>";
                 $('#myModal').modal('show').find('.modal-body').html(content);
                 
             });
