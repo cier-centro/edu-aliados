@@ -138,13 +138,13 @@
 #aliados-10-home-slider {
 		height: 320px;
 		overflow: hidden;
-		padding: 0 15px;
+		padding: 15px 15px;
 		margin-bottom: 15px;
 }
 
  #aliados-10-home-slider .views-slideshow-controls-top {
 		position: absolute;
-	  top: 27%;
+	  top: 33%;
 		width: 97%;
 		z-index: 5;
 		padding: 0 3%;
@@ -187,7 +187,7 @@
 
 .site-aliados10 #aliados-10-home-slider .views_slideshow_slide > div .views-field-body {
   position: absolute;
-  top: 25%;
+  top: 10%;
   width: 76%;
   right: 12%;
   background: transparent;
@@ -199,22 +199,23 @@
   background-color:rgba(255,255,255,0)!important;
 }
 .site-aliados10 #aliados-10-home-slider .views_slideshow_slide label {
-		color: #005573;
-		font-size: 24px;
+		color: #ffffff;
+		font-size: 36px;
 }
 
 .site-aliados10 #aliados-10-home-slider .views_slideshow_slide .field-content p {
 	  font-size: 13px;
+    margin:0 25% 20px 0!important;
 }
 
 .site-aliados10 #aliados-10-home-slider .views-more-link {
-		display: block;
-		background: #ff9400;
-    color: white;
-    margin: 15px -15px -15px;
-    padding: 4px 20px;
-    position: absolute;
-    right: 15px;
+  display: block;
+  background: transparent;
+  color: white;
+  margin: 15px 0px 0px;
+  padding: 4px 20px;
+  position: absolute;
+  border: 1px solid #ffffff;
 }
 /****TABLAS****/
 .site-aliados10 .content .table-responsive > thead > tr > th, .site-aliados10 .content .table-responsive > tbody > tr > th,.site-aliados10 .content .table-responsive > tfoot > tr > th,.site-aliados10 .content .table-responsive > thead > tr > td,.site-aliados10 .content .table-responsive > tbody > tr > td,.site-aliados10 .content .table-responsive > tfoot > tr > td {
