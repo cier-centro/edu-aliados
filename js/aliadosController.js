@@ -66,7 +66,8 @@ app.controller('aliadosController', function($scope, $http) {
             $scope.entities = [];
             var obj = {content: null};
             var content = "";
-            content += "<div class='panel-group'>";
+            
+            content += "<div class='panel-group' id='accordion'>";
             content += "<div class='panel panel-default'>";
             
 
@@ -82,17 +83,31 @@ app.controller('aliadosController', function($scope, $http) {
                     if(entities.index == index){
                         
                         content += "<h4 class='panel-title'>";
-                        content += "<a data-toggle='collapse' href='#collapse_"+i+"'>";
+                        
+                        if(i == 0){
+                            content += "<a data-toggle='collapse' data-parent='#accordion' href='#collapse'>";
+                            content += "<div class='table-responsive'>";
+                            content += "<table class='table-bordered table-map'>"
+                            content += "<tr class='tr-header'><td>Colegio mentor</td><td>Municipio</td><td>Departamento</td><td>Nombre de instituci\u00f3n</td><td>Municipio</td><td>Departamento</td></tr>";
+                            content += "</table>";
+                            content += "</div>";
+                            content += "</a>";
+                        }
+                        
+                        content += "<a data-toggle='collapse' data-parent='#accordion' href='#collapse_"+i+"'>";
                         content += "<div class='table-responsive'>";
                         content += "<table class='table-bordered table-map'>"
-                        content += "<tr><td>"+entities.mentor+"</td><td style='width:100px'>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr>"
+                        content += "<tr><td>"+entities.mentor.toLowerCase()+"</td><td>"+entities.municipio_mentor.toLowerCase()+"</td><td>"+entities.departamento_mentor.toLowerCase()+"</td><td>"+entities.acomp.toLowerCase()+"</td><td>"+entities.municipio_acomp.toLowerCase()+"</td><td>"+entities.departamento_acomp.toLowerCase()+"</td></tr>"
                         content += "</table>";
                         content += "</div>";
                         content += "</a>";
                         content += "</h4>";
                         
+                        if(i == 0)
+                            content += "<div id='collapse_"+i+"' class='panel-collapse collapse in'>";
+                        else
+                            content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
                         
-                        content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
                         content += "<div class='panel-body'>"
                         
                         content += "<div class='info-map'>";
