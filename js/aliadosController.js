@@ -25,39 +25,39 @@ app.controller('aliadosController', function($scope, $http) {
         series: {
             regions: [{
                 values: {
-                    "CO-SAP": '#FFCA8F',
-                    "CO-LAG": '#FFCA8F',
-                    "CO-MAG": '#8FC1D3',
-                    "CO-ATL": '#9C96AF',
-                    "CO-CES": '#CBDBA2',
-                    "CO-BOL": '#FFCA8F',
-                    "CO-SUC": '#CBDBA2',
-                    "CO-COR": '#8FC1D3',
-                    "CO-ANT": '#C59FBF',
-                    "CO-SAN": '#9C96AF',
-                    "CO-NSA": '#C59FBF',
-                    "CO-CHO": '#FFCA8F',
-                    "CO-ARA": '#8FC1D3',
-                    "CO-VID": '#C59FBF',
-                    "CO-GUV": '#FFCA8F',
-                    "CO-CAS": '#CBDBA2',
-                    "CO-MET": '#8FC1D3',
-                    "CO-VAU": '#CBDBA2',
-                    "CO-AMA": '#8FC1D3',
-                    "CO-CAL": '#CBDBA2',
-                    "CO-TOL": '#FFCA8F',
-                    "CO-BOY": '#FFCA8F',
-                    "CO-VAC": '#CBDBA2',
-                    "CO-DC": '#9C96AF',
-                    "CO-PUT": '#FFCA8F',
-                    "CO-GUA": '#9C96AF',
-                    "CO-HUI": '#CBDBA2',
-                    "CO-NAR": '#9C96AF',
-                    "CO-RIS": '#8FC1D3',
-                    "CO-CUN": '#C59FBF',
-                    "CO-CAU": '#8FC1D3',
-                    "CO-CAQ": '#C59FBF',
-                    "CO-QUI": '#9C96AF',
+                    "CO-SAP": (validateIsExistsInfo("CO-SAP") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-LAG": (validateIsExistsInfo("CO-LAG") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-MAG": (validateIsExistsInfo("CO-MAG") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-ATL": (validateIsExistsInfo("CO-ATL") == 0)?'#FFFFFF':'#9C96AF',
+                    "CO-CES": (validateIsExistsInfo("CO-CES") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-BOL": (validateIsExistsInfo("CO-BOL") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-SUC": (validateIsExistsInfo("CO-SUC") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-COR": (validateIsExistsInfo("CO-COR") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-ANT": (validateIsExistsInfo("CO-ANT") == 0)?'#FFFFFF':'#C59FBF',
+                    "CO-SAN": (validateIsExistsInfo("CO-SAN") == 0)?'#FFFFFF':'#9C96AF',
+                    "CO-NSA": (validateIsExistsInfo("CO-NSA") == 0)?'#FFFFFF':'#C59FBF',
+                    "CO-CHO": (validateIsExistsInfo("CO-CHO") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-ARA": (validateIsExistsInfo("CO-ARA") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-VID": (validateIsExistsInfo("CO-VID") == 0)?'#FFFFFF':'#C59FBF',
+                    "CO-GUV": (validateIsExistsInfo("CO-GUV") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-CAS": (validateIsExistsInfo("CO-CAS") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-MET": (validateIsExistsInfo("CO-MET") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-VAU": (validateIsExistsInfo("CO-VAU") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-AMA": (validateIsExistsInfo("CO-AMA") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-CAL": (validateIsExistsInfo("CO-CAL") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-TOL": (validateIsExistsInfo("CO-TOL") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-BOY": (validateIsExistsInfo("CO-BOY") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-VAC": (validateIsExistsInfo("CO-VAC") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-DC": (validateIsExistsInfo("CO-DC") == 0)?'#FFFFFF':'#9C96AF',
+                    "CO-PUT": (validateIsExistsInfo("CO-PUT") == 0)?'#FFFFFF':'#FFCA8F',
+                    "CO-GUA": (validateIsExistsInfo("CO-GUA") == 0)?'#FFFFFF':'#9C96AF',
+                    "CO-HUI": (validateIsExistsInfo("CO-HUI") == 0)?'#FFFFFF':'#CBDBA2',
+                    "CO-NAR": (validateIsExistsInfo("CO-NAR") == 0)?'#FFFFFF':'#9C96AF',
+                    "CO-RIS": (validateIsExistsInfo("CO-RIS") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-CUN": (validateIsExistsInfo("CO-CUN") == 0)?'#FFFFFF':'#C59FBF',
+                    "CO-CAU": (validateIsExistsInfo("CO-CAU") == 0)?'#FFFFFF':'#8FC1D3',
+                    "CO-CAQ": (validateIsExistsInfo("CO-CAQ") == 0)?'#FFFFFF':'#C59FBF',
+                    "CO-QUI": (validateIsExistsInfo("CO-QUI") == 0)?'#FFFFFF':'#9C96AF',
                 },
              }],
          },
@@ -75,13 +75,14 @@ app.controller('aliadosController', function($scope, $http) {
                 obj.content = data;
                 
                 var i = 0;
+                var ban = 0;
                 
                 angular.forEach(obj.content, function(entities) {
                     
                     console.log(entities);
                     
                     if(entities.index == index){
-                        
+                        ban = 1;
                         content += "<h4 class='panel-title'>";
                         
                         if(i == 0){
@@ -135,32 +136,36 @@ app.controller('aliadosController', function($scope, $http) {
                     
                     i++;
                     
-                    /*arrayEntities.push({
-                        "departamento": entities.departamento,
-                        "region": entities.region,
-                        "pareja": entities.pareja,
-                        "acomp": entities.acomp,
-                        "direccion_acomp": entities.direccion_acomp,
-                        "telefono_acomp": entities.telefono_acomp,
-                        "rector_acomp": entities.rector_acomp,
-                        "correo_acomp": entities.correo_acomp,
-                        "mentor": entities.mentor,
-                        "direccion_mentor": entities.direccion_mentor,
-                        "telefono_mentor": entities.telefono_mentor,
-                        "rector_mentor": entities.rector_mentor,
-                        "correo_mentor": entities.correo_mentor,
-                        "index": entities.index
-                    });*/
-                    
                 });
                 
                 content += "</div>";
                 content += "</div>";
-                $('#myModal').modal('show').find('.modal-body').html(content);
+                
+                if(ban == 1)
+                    $('#myModal').modal('show').find('.modal-body').html(content);
                 
             });
         }
 
     });
+    
+    
+    
+    function validateIsExistsInfo(index){
+       var ban = 0; 
+       $.ajax({
+            url : 'https://dl.dropboxusercontent.com/u/575652037/edu-aliados/service/Resources/Base-aliados.json',
+            dataType : 'json',
+            async : false,
+            success : function(data) {
+               $.each(data, function(i, item) {
+                    if(item.index == index)
+                        ban = 1;
+               });
+            },
+        }) ;
+        
+        return ban;
+    }
 
 });
