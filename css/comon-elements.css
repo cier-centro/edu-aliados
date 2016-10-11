@@ -454,6 +454,21 @@
     color: #FFFFFF;
     background-color: #007C9F;
     margin-bottom: 0px;
+    border-radius: 4px;
+}
+
+.site-aliados10 .content .table-map td{
+    background-color: #007C9F;
+}
+
+.site-aliados10 .content .modal-content .info-map{
+    display: flex;
+    font-size: 12px;
+}
+
+.site-aliados10 .content .modal-content .info-map .info-map-mentor{
+    border-left: 1px solid black;
+    padding-left: 10px;
 }
 
 @media (min-width: 768px){

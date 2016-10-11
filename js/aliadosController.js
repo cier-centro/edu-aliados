@@ -81,20 +81,39 @@ app.controller('aliadosController', function($scope, $http) {
                     
                     if(entities.index == index){
                         
-                        //content += "<div class='panel-heading'>";
                         content += "<h4 class='panel-title'>";
                         content += "<a data-toggle='collapse' href='#collapse_"+i+"'>";
                         content += "<div class='table-responsive'>";
-                        content += "<table class='table table-bordered table-map'>"
-                        content += "<tr><td class='col-xs-4'>"+entities.mentor+"</td><td>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr>"
+                        content += "<table class='table-bordered table-map'>"
+                        content += "<tr><td>"+entities.mentor+"</td><td style='width:100px'>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr>"
                         content += "</table>";
                         content += "</div>";
                         content += "</a>";
                         content += "</h4>";
-                        //content += "</div>";
+                        
                         
                         content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
-                        content += "<div class='panel-body'>Panel Body</div>";
+                        content += "<div class='panel-body'>"
+                        
+                        content += "<div class='info-map'>";
+                        content += "<div>"
+                        content += "Acompa\u00f1ada: "+entities.acomp+"<br>";
+                        content += "Direcci\u00f3n: "+entities.direccion_acomp+"<br>";
+                        content += "Tel\u00e9fono: "+entities.telefono_acomp+"<br>";
+                        content += "Rector: "+entities.rector_acomp+"<br>";
+                        content += "Correo: "+entities.correo_acomp+"<br>";
+                        content += "</div>";
+                        
+                        content += "<div class='info-map-mentor'>"
+                        content += "Mentora: "+entities.mentor+"<br>";
+                        content += "Direcci\u00f3n: "+entities.direccion_mentor+"<br>";
+                        content += "Tel\u00e9fono: "+entities.telefono_mentor+"<br>";
+                        content += "Rector: "+entities.rector_mentor+"<br>";
+                        content += "Correo: "+entities.correo_mentor+"<br>";
+                        content += "</div>";
+                        content += "</div>"
+                        
+                        content += "</div>";
                         content += "</div>";
                         
                     }
