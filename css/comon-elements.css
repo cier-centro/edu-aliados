@@ -444,10 +444,22 @@
     margin: auto;
 }
 
+
+.site-aliados10 .content .modal-content .table-map{
+    font-size: 12px;
+    color: #FFFFFF;
+    background-color: #007C9F;
+    margin-bottom: 0px;
+}
+
 @media (min-width: 768px){
     .site-aliados10 .content .modal-dialog {
         width: 600px;
         margin: 15% auto;
+    }
+    
+    .site-aliados10 .content .modal-dialog-map{
+        width: 60%;
     }
 }
 @media (min-width: 1100px){

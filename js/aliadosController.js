@@ -81,11 +81,17 @@ app.controller('aliadosController', function($scope, $http) {
                     
                     if(entities.index == index){
                         
-                        content += "<div class='panel-heading'>";
+                        //content += "<div class='panel-heading'>";
                         content += "<h4 class='panel-title'>";
-                        content += "<a data-toggle='collapse' href='#collapse_"+i+"'><div class='table-responsive'><table class='table table-bordered' ><tr><td class='col-xs-4'>"+entities.mentor+"</td><td>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr></table></div></a>";
-                        content += "</h4>";
+                        content += "<a data-toggle='collapse' href='#collapse_"+i+"'>";
+                        content += "<div class='table-responsive'>";
+                        content += "<table class='table table-bordered table-map'>"
+                        content += "<tr><td class='col-xs-4'>"+entities.mentor+"</td><td>"+entities.municipio_mentor+"</td><td>"+entities.departamento_mentor+"</td><td>"+entities.acomp+"</td><td>"+entities.municipio_acomp+"</td><td>"+entities.departamento_acomp+"</td></tr>"
+                        content += "</table>";
                         content += "</div>";
+                        content += "</a>";
+                        content += "</h4>";
+                        //content += "</div>";
                         
                         content += "<div id='collapse_"+i+"' class='panel-collapse collapse'>";
                         content += "<div class='panel-body'>Panel Body</div>";
