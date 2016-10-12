@@ -1,4 +1,4 @@
-.content h1, .content h2, .content h3{
+.content h1, .content h2, .content h3, .content h4{
     margin-bottom:30px;
     font-weight:normal;
     color:#1F2B49;
@@ -15,11 +15,15 @@
     padding-left:14px;
 }
 .site-aliados10 .content h4{
-    color:#1F2B49;
+  color: #007C9F;
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
 }
 .site-aliados10 .content p{
-    margin:0 15px 20px 15px!important;
+    margin:5px 10px 20px 10px!important;
 }
+.site-aliados10 .content p a{text-decoration: underline;}
 .site-aliados10 .content .callout{
     margin:30px 10px 10px 10px;
     display:inline-block;
@@ -38,11 +42,18 @@
     line-height: 29px;
     color: #767679;
 }
-.site-aliados10 .content .section-content-ju ul li{
-    list-style: initial;
-}
-.site-aliados10 .content .section-content-ju ul{
+/*verificar que estos estilos siempre apunten al contenido para no modificar estilos del menú*/
+.site-aliados10 .content .aliados10-section-content ul{
     margin:0 60px 20px 60px!important;
+}
+.site-aliados10 .content .aliados10-section-content ul li{
+    text-indent: -10px;
+    /*cambiar el valor a positivo según la necesidad*/
+}
+.site-aliados10 .content .aliados10-section-content ul li:before {
+    content: "• ";
+    color: #8DB530;
+    font-weight: bold;
 }
 .site-aliados10 .content .table-responsive{
     width:90%;
@@ -132,7 +143,7 @@
 }
 /*******SLIDER******/
 #aliados-10-home-slider {
-		height: 320px;
+		/*height: 320px;*/
 		overflow: hidden;
 		padding: 15px 15px;
 		margin-bottom: 15px;
