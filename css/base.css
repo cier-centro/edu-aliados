@@ -259,6 +259,10 @@
     margin: auto;
 }
 
+.site-aliados10 .content .table-map .tr-header td {
+    width: 11.6%;
+}
+
 @media screen and (max-width: 767px){
     .site-aliados10 .content .modal-content .table-responsive {
         width: 100%;
@@ -284,6 +288,6 @@
 
 @media (min-width: 768px){
     .site-aliados10 .content .modal-dialog-map{
-        width: 70%;
+        width: 60%;
     }
 }
