@@ -247,7 +247,7 @@
 }
 
 .site-aliados10 .content .modal-content .table-responsive{
-   margin-bottom: 0px; 
+   margin-bottom: 0px;
 }
 
 .site-aliados10 .content .modal-content {
@@ -262,14 +262,42 @@
 .site-aliados10 .content .table-map .tr-header td {
     width: 11.6%;
 }
+.site-aliados10 .content .media-logos{
+	display: block;
+	width: 90%;
+	border: solid 1px #E5E5E5;
+	margin:5px;
+}
+.site-aliados10 .content .media-left-logo,.site-aliados10 .content .media-body-logos{
+	display: inline-block;
+}
+.site-aliados10 .content .media-left-logo{
+	width: 30%;
+}
+.site-aliados10 .content .lg-oei{
+	width: 170px;
+	height:auto;
+}
+.site-aliados10 .content .lg-corpoe{
+	width: 150px;
+	height:auto;
+}
+.site-aliados10 .content .infographic-content{
+	margin-top: 50px;
+}
+.site-aliados10 .content .infographic-content .btn{
+	width: 90%;
+	margin: 10px auto;
+	display: block;
+}
 
 @media screen and (max-width: 767px){
     .site-aliados10 .content .modal-content .table-responsive {
         width: 100%;
-        margin-bottom: 0px; 
+        margin-bottom: 0px;
         overflow-y: hidden;
         -ms-overflow-style: -ms-autohiding-scrollbar;
-        border: 0px solid #ddd; 
+        border: 0px solid #ddd;
     }
 }
 @media (max-width: 1000px){
