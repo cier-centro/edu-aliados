@@ -283,12 +283,49 @@
 	height:auto;
 }
 .site-aliados10 .content .infographic-content{
-	margin-top: 50px;
+	margin-top: 30px;
+	display: block;
+}
+.site-aliados10 .content .infographic-content .info-first-group, .site-aliados10 .content .infographic-content .info-second-group, .site-aliados10 .content .infographic-content .info-third-group {
+	height: 140px;
 }
 .site-aliados10 .content .infographic-content .btn{
 	width: 90%;
 	margin: 10px auto;
 	display: block;
+	color:#ffffff;
+	border:0px;
+}
+.site-aliados10 .content .infographic-content .info-first-group{background-color: #FFCA8F;}
+.site-aliados10 .content .infographic-content .info-first-group .btn{background-color: #FF9F33;margin: 10px 0px 10px 18px;}
+.site-aliados10 .content .infographic-content .info-first-group .btn:hover{background-color: #FF8A00;}
+.site-aliados10 .content .infographic-content .info-second-group{background-color: #CBDBA2;}
+.site-aliados10 .content .infographic-content .info-second-group .btn{background-color: #A2C259; margin: 25px auto;}
+.site-aliados10 .content .infographic-content .info-second-group .btn:hover{background-color: #8DB530;}
+.site-aliados10 .content .infographic-content .info-third-group{background-color: #8FC1D3;}
+.site-aliados10 .content .infographic-content .info-third-group .btn{background-color: #338CB0; margin: 55px 18px 50px 0;}
+.site-aliados10 .content .infographic-content .info-third-group .btn:hover{background-color: #007C9F;}
+.site-aliados10 .content .info-instruction{
+	font-size: 14px;
+	font-variant: normal;
+	font-style: italic;
+	font-weight: lighter;
+	text-indent: 15px;
+	padding: 5px;
+}
+.site-aliados10 .content .infographic-moments .btn{
+	width: 90%;
+	margin: 10px auto;
+	display: block;
+	white-space: normal;
+}
+.site-aliados10 .content .list-inline li{
+	content: "• ";
+	color: #8DB530;
+	font-weight: bold;
+}
+.site-aliados10 .content .lg-men{
+	margin: 25% auto;
 }
 
 @media screen and (max-width: 767px){
@@ -305,6 +342,14 @@
 		width:90%;
 		margin:auto;
 		box-sizing:border-box;
+	}
+	.site-aliados10 .content .infographic-content .info-first-group .btn,.site-aliados10 .content .infographic-content .info-second-group .btn, .site-aliados10 .content .infographic-content .info-third-group .btn{
+		margin: 10px auto;
+		width: 50%;
+	}
+	.site-aliados10 .content .infographic-content .info-first-group, .site-aliados10 .content .infographic-content .info-second-group, .site-aliados10 .content .infographic-content .info-third-group {
+		padding: 10px;
+		height: auto;
 	}
 }
 
