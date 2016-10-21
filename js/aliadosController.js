@@ -71,6 +71,7 @@ $(document).ready(function() {
     });
 
     function contentModalMap(index) {
+        console.log(index);
         var content = "";
         var i = 0;
         var ban = 0;
