@@ -1,18 +1,18 @@
 var app = "";
 var objData = "";
-var url = 'https://dl.dropboxusercontent.com/u/575652037/edu-aliados/service/Resources/Base-aliados.json';
 
 $(document).ready(function() {
-    $.ajax({
-        url: url,
+	
+	$.ajax({
+        url: 'https://dl.dropboxusercontent.com/u/575652037/edu-aliados/service/Resources/Base-aliados.json',
         dataType: 'json',
         async: false,
         success: function(data) {
             objData = data;
-        },
+		},
     });
-
-    $('#map').vectorMap({
+	
+	$('#map').vectorMap({
         map: 'co_mill',
         zoomMax: 5,
         markerStyle: {
