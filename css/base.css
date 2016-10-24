@@ -383,6 +383,7 @@
   text-align: center;
   font-size: 16px;
 	line-height: 80px;
+	overflow: hidden;
 }
 .site-aliados10 .content .panel-news-event .info-panel{
 	display: inline-block;
@@ -391,6 +392,7 @@
 	box-sizing: border-box;
 	border-left: 1px solid #ffffff;
 	padding: 5px;
+	overflow: hidden;
 }
 .site-aliados10 .content .panel-news-event .info-panel h3{
 	color: #ffffff;
@@ -426,13 +428,11 @@
 		display:block;
 	}
 }
-/*@media (min-width: 992px){
-	.site-aliados10 .news-and-events{
-    position: absolute;
-    right: 15px;
-		display:block;
+@media (min-width: 768px) and (max-width: 992px){
+	.site-aliados10 .news-and-events h2.pane-title{
+		display: table-cell;
 	}
-}*/
+}
 @media screen and (max-width: 767px){
     .site-aliados10 .content .modal-content .table-responsive {
         width: 100%;
