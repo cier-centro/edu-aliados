@@ -7,7 +7,7 @@
 	box-shadow: -5px 0px 15px 0px rgba(0,0,0,0.2);
 }
 .site-aliados10 .main_container{
-	background: url('https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/bg-aliados10.png') #e5e5e5 repeat-x;
+	background: url('http://52.37.84.217/edu-aliados/img/bg-aliados10.png') #e5e5e5 repeat-x;
 	background-position: bottom;
 }
 .site-aliados10 .breadcrumb{
@@ -417,9 +417,7 @@
 	font-weight: bold;
 	color: #FF8A00;
 }
-.site-aliados10 .news-and-events{
 
-}
 
 @media (min-width: 992px){
 	.site-aliados10 .news-and-events{
