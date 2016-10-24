@@ -417,11 +417,22 @@
 	font-weight: bold;
 	color: #FF8A00;
 }
+.site-aliados10 .news-and-events{
+
+}
 
 @media (min-width: 992px){
 	.site-aliados10 .news-and-events{
     position: absolute;
     right: 0px;
+		display:block;
+	}
+}
+@media (max-width: 992px){
+	.site-aliados10 .news-and-events{
+    position: absolute;
+    right: 10px;
+		display:block;
 	}
 }
 @media screen and (max-width: 767px){
