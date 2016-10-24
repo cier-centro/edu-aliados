@@ -1,3 +1,4 @@
+.site-aliados10 .modal-dialog h4{margin-bottom: 0px;}
 .site-aliados10 .panels-flexible-region{
 	background-color:#ffffff;
 	min-height: 860px;
@@ -55,9 +56,6 @@
 	-ms-transition: all 0.5s ease;
 	-o-transition: all 0.5s ease;
 	transition: all 0.5s ease;
-}
-.site-aliados10 .option-menu label .icon, .site-aliados10 .eye-class .option-menu .icons{
-	background: url("../images/icons-jornada-unica.png") no-repeat;
 }
 .site-aliados10 .option-menu label .icon-contact,.site-aliados10 .option-menu label .icon-foro{
 	float:right;
@@ -212,13 +210,13 @@
 .site-aliados10 .content .modal-content .table-map{
     font-size: 12px;
     color: #FFFFFF;
-    background-color: #007C9F;
+    background-color: transparent;
     margin-bottom: 0px;
-    border-radius: 4px;
+		margin-top: 0px;
 }
 
 .site-aliados10 .content .table-map td{
-    background-color: #007C9F;
+    background-color: transparent;
     width: 16.6%;
     text-transform: capitalize;
     height: 50px;
@@ -262,6 +260,24 @@
 .site-aliados10 .content .table-map .tr-header td {
     width: 11.6%;
 }
+.site-aliados10 .content .modal-content .table-bordered>tbody>tr>td,
+.site-aliados10 .content .modal-content .table-bordered>tbody>tr>th,
+.site-aliados10 .content .modal-content .table-bordered>tfoot>tr>td,
+.site-aliados10 .content .modal-content .table-bordered>tfoot>tr>th,
+.site-aliados10 .content .modal-content .table-bordered>thead>tr>td,
+.site-aliados10 .content .modal-content .table-bordered>thead>tr>th{
+	border:0px!important;
+}
+.site-aliados10 .content .modal-content a{font-weight: lighter;}
+.site-aliados10 .content .modal-content a:hover,
+.site-aliados10 .content .modal-content a:focus{
+	text-decoration: none;
+}
+.site-aliados10 .content .modal-content tbody{border-top:0px;margin:0px;}
+.site-aliados10 .content .modal-content tbody tr:hover{
+	background-color: #338CB0!important;
+}
+/*.site-aliados10 .content .modal-content .collapsed .table-bordered>tbody>tr>td{background: #ffffff; }imposible*/
 .site-aliados10 .content .media-logos{
 	display: block;
 	width: 90%;
@@ -327,7 +343,87 @@
 .site-aliados10 .content .lg-men{
 	margin: 25% auto;
 }
+.site-aliados10 .news-and-events h2.pane-title{
+	background: url("../img/ico-noticias.png") no-repeat #007C9F;
+	font-size: 16px;
+	color:#ffffff;
+	padding:10px 15px 10px 60px;
+	font-weight: bold;
+	display: block;
+	min-height: 60px;
+	width: 100%;
+}
+.site-aliados10 .news-and-events .btn-panel h2{
+	background: url("../img/ico-btn-panel.png") no-repeat #802977;
+	font-size: 16px;
+	color:#ffffff;
+	padding:10px 15px 10px 60px;
+	font-weight: bold;
+	display: block;
+	min-height: 60px;
+	width: 100%;
+	text-align: left;
+}
+.site-aliados10 .content .panel-news-event{
+	background: rgba(0,0,0,0.60);
+	margin-top: -90px;
+	position: relative;
+	height: 100px;
+	box-sizing: border-box;
+	display: flex;
+}
+.site-aliados10 .content .panel-news-event .tipe-label{
+	display: inline-block;
+  width: 20%;
+  height: 100px;
+  margin: auto;
+  color: #ffffff;
+  box-sizing: border-box;
+  padding: 5px;
+  text-align: center;
+  font-size: 16px;
+	line-height: 80px;
+}
+.site-aliados10 .content .panel-news-event .info-panel{
+	display: inline-block;
+	width: 75%;
+	height: 100px;
+	box-sizing: border-box;
+	border-left: 1px solid #ffffff;
+	padding: 5px;
+}
+.site-aliados10 .content .panel-news-event .info-panel h3{
+	color: #ffffff;
+	font-size: 14px;
+	margin: 0px;
+	padding-left: 0px;
+	font-weight: normal;
+}
+.site-aliados10 .content .panel-news-event .info-panel p,.site-aliados10 .content .panel-news-event .info-panel label{
+	color: #ffffff;
+}
+.site-aliados10 .content .panel-news-event .info-panel label{
+	font-weight: lighter;
+	font-size: 10px;
+	font-style: italic;
+	text-align: right;
+	width: 100%;
+	margin:0px;
+}
+.site-aliados10 .content .panel-news-event .info-panel p{
+	margin: 0px!important;
+}
+.site-aliados10 .content .panel-news-event .info-panel p a{
+	font-weight: bold;
+	color: #FF8A00;
+}
 
+@media (min-width: 992px){
+	.site-aliados10 .news-and-events{
+    position: absolute;
+    right: 0px;
+	}
+}
 @media screen and (max-width: 767px){
     .site-aliados10 .content .modal-content .table-responsive {
         width: 100%;

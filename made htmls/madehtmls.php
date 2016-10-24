@@ -301,4 +301,13 @@ $(function () {
 	</div>
 </div>
 <!-- menú Secundario -->
-<h1></h1>
+<div class="panel-news-event">
+	<h5 class="tipe-label">Evento</h5>
+	<div class="info-panel">
+		<label class="date-news-event">12 de septiembre</label>
+		<h3>Encuentros regionales Aliados 10</h3>
+		<p>En septiembre y octubre se realizaron los encuentros regionales del Proyecto Aliados 10. Estos encuentros fueron una oportunidad para que las parejas socializaran sus experiencias y propuestas, de igual se consolidaron lazos interinstitucionales, académicos y comunitarios entre las diversas instituciones educativas. </p>
+		<p>Los resultados de estos encuentros servirán, para el equipo de trabajo, como insumo que permita el mejoramiento de la estrategia, y para las IE participantes del Proyecto, con el fin de obtener retroalimentación de otras instituciones, así como ideas para el fortalecimiento de sus planes de acompañamiento.</p>
+		<p>Se valora el esfuerzo y dedicación de todas las parejas: colegios mentores e IE acompañadas, por mostrar sus apuestas y compartir su conocimiento, fue gratificante tener acercamiento a ellos. </p>
+	</div>
+</div>

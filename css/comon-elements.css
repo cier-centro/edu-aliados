@@ -473,3 +473,18 @@
     width: 1024px!important;
   }
 }
+@media (max-width: 850px){
+  .site-aliados10 .content #microsite_panel .menu .children_menu {
+    margin-left: 0px;
+  }
+  .site-aliados10 .main-menu-allies-10 > .pane-content > ul > li{
+    border-right:0px;
+    margin-top: 1px;
+  }
+  .site-aliados10 .content #microsite_panel .menu .children_menu li{
+    margin-top: 1px;
+    text-decoration: none;
+    margin-bottom: 1px;
+  }
+
+}
