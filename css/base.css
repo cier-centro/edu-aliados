@@ -437,10 +437,9 @@
 	}
 }
 @media (min-width: 992px){
-	#first-news-events{
+	.site-aliados10 .news-and-events#first-news-events{
     position: absolute;
-    right: 0px;
-		display:block;
+    right: 10px;
 	}
 }
 
