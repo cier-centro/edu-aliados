@@ -366,7 +366,7 @@
 	text-align: left;
 	line-height: 34px;
 }
-.site-aliados10 .content .panel-news-event{
+.site-aliados10 .panel-news-event{
 	background: rgba(0,0,0,0.60);
 	margin-top: -90px;
 	position: relative;
@@ -374,7 +374,7 @@
 	box-sizing: border-box;
 	display: flex;
 }
-.site-aliados10 .content .panel-news-event .tipe-label{
+.site-aliados10 .panel-news-event .tipe-label{
 	display: inline-block;
   width: 20%;
   height: 100px;
@@ -387,7 +387,7 @@
 	line-height: 80px;
 	overflow: hidden;
 }
-.site-aliados10 .content .panel-news-event .info-panel{
+.site-aliados10 .panel-news-event .info-panel{
 	display: inline-block;
 	width: 75%;
 	height: 100px;
@@ -396,17 +396,17 @@
 	padding: 5px;
 	overflow: hidden;
 }
-.site-aliados10 .content .panel-news-event .info-panel h3{
+.site-aliados10 .panel-news-event .info-panel h3{
 	color: #ffffff;
 	font-size: 14px;
 	margin: 0px;
 	padding-left: 0px;
 	font-weight: normal;
 }
-.site-aliados10 .content .panel-news-event .info-panel p,.site-aliados10 .content .panel-news-event .info-panel label{
+.site-aliados10 .panel-news-event .info-panel p,.site-aliados10 .panel-news-event .info-panel label{
 	color: #ffffff;
 }
-.site-aliados10 .content .panel-news-event .info-panel label{
+.site-aliados10 .panel-news-event .info-panel label{
 	font-weight: lighter;
 	font-size: 10px;
 	font-style: italic;
@@ -414,10 +414,10 @@
 	width: 100%;
 	margin:0px;
 }
-.site-aliados10 .content .panel-news-event .info-panel p{
+.site-aliados10 .panel-news-event .info-panel p{
 	margin: 0px!important;
 }
-.site-aliados10 .content .panel-news-event .info-panel p a{
+.site-aliados10 .panel-news-event .info-panel p a{
 	font-weight: bold;
 	color: #FF8A00;
 }
