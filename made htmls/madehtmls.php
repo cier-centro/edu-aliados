@@ -21,7 +21,7 @@
 <div class="media-logos">
   <div class="media-left-logo">
     <a href="http://www.oei.org.co/">
-      <img class="lg-oei" src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/lg-oei.png" alt="logo-oei">
+      <img class="lg-oei" src="http://52.37.84.217/edu-aliados/img/lg-oei.png" alt="logo-oei">
     </a>
   </div>
   <div class="media-body-logos">
@@ -31,7 +31,7 @@
 <div class="media-logos">
   <div class="media-left-logo">
     <a href="http://www.oei.org.co/">
-      <img class="lg-corpoe" src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/corpoeducacion.png" alt="logo-corpoeducacion">
+      <img class="lg-corpoe" src="http://52.37.84.217/edu-aliados/img/corpoeducacion.png" alt="logo-corpoeducacion">
     </a>
   </div>
   <div class="media-body-logos">
@@ -138,31 +138,31 @@ $(function () {
 <h4>Actividades previas al acompañamiento</h4>
 <h5>Socialización de la estrategia en cada ETC</h5>
 <p>Es una reunión que realiza el profesional de campo que dinamiza la implementación de la estrategia en ETC en coordinación con los profesionales responsables del proceso en cada Secretarías de Educación beneficiada. El propósito es socializar la estrategia con rectores de los establecimientos educativos pares focalizados, dar a conocer los parámetros de participación y establecer acuerdos y compromisos, por escrito, para la participación en el proyecto.</p>
-<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/accompanying-activities.jpg" class="img-responsive" alt="Responsive image">
+<img src="http://52.37.84.217/edu-aliados/img/accompanying-activities.jpg" class="img-responsive" alt="Responsive image">
 <h5>Socialización de la estrategia con la comunidad educativa</h5>
 <p>Corresponde a la gestión que realiza el rector de cada colegio mentor e IE acompañada para informar a su comunidad educativa sobre el proceso de acompañamiento en el que se ha comprometido el EE.</p>
 <h5>Encuentro de alistamiento con colegios mentores</h5>
 <p>Este encuentro busca socializar la estrategia de acompañamiento y el proyecto, a la vez que se realizan acuerdos iniciales con los colegios mentores para motivar su participación comprometida  y  se identifican sus características, expectativas y potencialidades para ejercer su rol de Mentor.</p>
-<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/colegios-mentores.jpg" class="img-responsive" alt="Responsive image">
+<img src="http://52.37.84.217/edu-aliados/img/colegios-mentores.jpg" class="img-responsive" alt="Responsive image">
 <h5>Encuentro de alistamiento con IE acompañadas</h5>
 <p>Este encuentro busca socializar la estrategia de acompañamiento y el proyecto, a la vez que se realizan acuerdos iniciales con las IE acompañadas para motivar su participación comprometida  y  se identifican sus características, expectativas, fortalezas y necesidades de acompañamiento.</p>
 <h5>Encuentro de planeación entre los EE pares</h5>
 <p>Corresponde al primer encuentro de planeación entre cada par de EE para formular el plan del acompañamiento, en el que los dos integrantes de la pareja de acompañamiento, con base en la caracterización realizada por cada uno de ellos, sus expectativas, fortalezas, necesidades de acompañamiento identificadas y con criterios de pertinencia al contexto sociocultural,  realizan acuerdos para el acompañamiento. </p>
-<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/encuentro-pares.jpg" class="img-responsive" alt="Responsive image">
+<img src="http://52.37.84.217/edu-aliados/img/encuentro-pares.jpg" class="img-responsive" alt="Responsive image">
 <h4>Desarrollo de las sesiones situadas</h4>
 <h5>Ejecución del plan de acción</h5>
 <p>Corresponde a las actividades específicas concertadas en el plan de acompañamiento, mediante la cual el colegio mentor y la IE acompañada se encuentran para llevar a cabo el acompañamiento en los tópicos priorizados en cada dimensión, conforme al plan de acción y cronograma.</p>
 <div class="row">
   <div class="col-md-6">
-	<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/dia-clases.jpg" class="img-responsive" alt="Responsive image">
+	<img src="http://52.37.84.217/edu-aliados/img/dia-clases.jpg" class="img-responsive" alt="Responsive image">
   </div>
   <div class="col-md-6">
-	<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/dia-clases2.jpg" class="img-responsive" alt="Responsive image">
+	<img src="http://52.37.84.217/edu-aliados/img/dia-clases2.jpg" class="img-responsive" alt="Responsive image">
   </div>
 </div>
 <h5>Acompañamiento y seguimiento a la implementación de los planes de acción</h5>
 <p>Son las isitas de campo que realiza el profesional dinamizador del proceso en la ETC, mediante las cuales acompaña a cada par de EE en tres sesiones situadas durante el período de implementación de la estrategia. Estas visitas son para ofrecer asistencia técnica, proponer acciones de mejora, levantar información y hacer seguimiento a los recursos entregados para financiar el acompañamiento.</p>
-<img src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/el-salitre.jpg" class="img-responsive" alt="Responsive image">
+<img src="http://52.37.84.217/edu-aliados/img/el-salitre.jpg" class="img-responsive" alt="Responsive image">
 <h5>Interacción mediante la comunidad virtual de aprendizaje</h5>
 <p>El proyecto cuenta con una herramienta que se ha llamado “Comunidad virtual de aprendizaje” que permite el uso de las TIC para facilitar la interacción entre docentes, directivos docentes, equipo del proyecto Aliados 10, profesional de la SE y el Ministerio de Educación Nacional. El propósito es compartir conocimientos, experiencias, inquietudes, aclaraciones, material pedagógico, recibir y brindar asesoría técnica y hacer seguimiento a la ejecución de los recursos que financian el plan de acompañamiento.</p>
 <h5>Evaluación formativa</h5>
@@ -183,7 +183,7 @@ $(function () {
 <div class="row">
   <div class="col-md-3">
     <a href="https://www.mineducacion.gov.co/">
-      <img class="lg-m" src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/lg-min-educacion.png" alt="logo-men">
+      <img class="lg-m" src="http://52.37.84.217/edu-aliados/img/lg-min-educacion.png" alt="logo-men">
     </a>
   </div>
   <div class="col-md-9">
@@ -194,7 +194,7 @@ $(function () {
 <!-- Protagonistas / Equipo de trabajo -->
 
 <h3>Equipo de trabajo </h3>
-<img class="img-responsive" alt="Formación Equipo Aliados 10" src="https://dl.dropboxusercontent.com/u/575652037/edu-aliados/img/formacion-equipo-a10.jpg">
+<img class="img-responsive" alt="Formación Equipo Aliados 10" src="http://52.37.84.217/edu-aliados/img/formacion-equipo-a10.jpg">
 <label class="info-instruction">Formación Equipo Aliados 10</label>
 <table class="table-responsive">
 	<thead>
