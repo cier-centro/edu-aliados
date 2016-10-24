@@ -426,13 +426,13 @@
 		display:block;
 	}
 }
-@media (max-width: 992px){
+/*@media (min-width: 992px){
 	.site-aliados10 .news-and-events{
     position: absolute;
-    right: 10px;
+    right: 15px;
 		display:block;
 	}
-}
+}*/
 @media screen and (max-width: 767px){
     .site-aliados10 .content .modal-content .table-responsive {
         width: 100%;
