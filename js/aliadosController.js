@@ -4,7 +4,7 @@ var objData = "";
 $(document).ready(function() {
 	
 	$.ajax({
-        url: 'https://dl.dropboxusercontent.com/u/575652037/edu-aliados/service/Resources/Base-aliados.json',
+        url: 'http://aprende.colombiaaprende.edu.co/sites/all/themes/aprende/css_edusitios/Base-aliados.json',
         dataType: 'json',
         async: false,
         success: function(data) {
@@ -71,6 +71,7 @@ $(document).ready(function() {
     });
 
     function contentModalMap(index) {
+        console.log(index);
         var content = "";
         var i = 0;
         var ban = 0;
