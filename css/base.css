@@ -374,6 +374,9 @@
 	box-sizing: border-box;
 	display: flex;
 }
+.site-aliados10 .content .pane-content .tipe-label{
+	display: none;
+}
 .site-aliados10 .content .news-and-events .panel-news-event .tipe-label{
 	display: inline-block;
   width: 20%;
@@ -421,7 +424,7 @@
 	font-weight: bold;
 	color: #FF8A00;
 }
-.site-aliados10 .content img{
+.site-aliados10 .content .pane-content img{
 	margin: 15px 0;
 }
 
