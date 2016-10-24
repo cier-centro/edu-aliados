@@ -343,6 +343,7 @@
 .site-aliados10 .content .lg-men{
 	margin: 25% auto;
 }
+
 .site-aliados10 .news-and-events h2.pane-title{
 	background: url("../img/ico-noticias.png") no-repeat #007C9F;
 	font-size: 16px;
@@ -363,6 +364,7 @@
 	min-height: 60px;
 	width: 100%;
 	text-align: left;
+	line-height: 34px;
 }
 .site-aliados10 .content .panel-news-event{
 	background: rgba(0,0,0,0.60);
@@ -419,11 +421,13 @@
 	font-weight: bold;
 	color: #FF8A00;
 }
-
+.site-aliados10 .content img{
+	margin: 15px 0px;
+}
 
 @media (min-width: 992px){
 	.site-aliados10 .news-and-events{
-    position: absolute;
+    position: relative;
     right: 0px;
 		display:block;
 	}
