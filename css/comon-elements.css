@@ -472,6 +472,14 @@
   .site-aliados10 .main_container .section_content {
     width: 1024px!important;
   }
+  .site-aliados10 .main_container .section_container {
+    width: 1024px!important;
+  }
+  .site-aliados10 .main_container .sub_footer {
+    width: 1014px!important;
+  }
+
+
 }
 @media (max-width: 850px){
   .site-aliados10 .content #microsite_panel .menu .children_menu {
