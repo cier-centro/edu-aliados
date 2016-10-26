@@ -104,10 +104,10 @@ $(function () {
 		</button>
 	</div>
 	<div class="col-md-4 info-third-group">
-		  <button type="button" class="btn btn-primary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on left">Concentración</button>
+		  <button type="button" class="btn btn-primary" data-toggle="tooltip" data-placement="bottom" title="Tooltip on left">PRINCIPIOS</button>
 	</div>
 </div>
-<label class="info-instruction">Has click sobre cada uno de los principios para conocer sus carácteristicas.</label>
+<label class="info-instruction">Haz clic sobre cada uno de los principios para conocer sus carácteristicas.</label>
 <script>
 $(function () {
   $('[data-toggle="popover"]').popover()
@@ -134,7 +134,7 @@ $(function () {
 		</button>
 	</div>
 </div>
-<label class="info-instruction">Has click sobre cada uno de los principios para conocer sus carácteristicas.</label>
+<label class="info-instruction">Haz clic sobre cada uno de los principios para conocer sus carácteristicas.</label>
 <h4>Actividades previas al acompañamiento</h4>
 <h5>Socialización de la estrategia en cada ETC</h5>
 <p>Es una reunión que realiza el profesional de campo que dinamiza la implementación de la estrategia en ETC en coordinación con los profesionales responsables del proceso en cada Secretarías de Educación beneficiada. El propósito es socializar la estrategia con rectores de los establecimientos educativos pares focalizados, dar a conocer los parámetros de participación y establecer acuerdos y compromisos, por escrito, para la participación en el proyecto.</p>

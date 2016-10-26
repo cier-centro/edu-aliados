@@ -1,4 +1,10 @@
 .site-aliados10 .modal-dialog h4{margin-bottom: 0px;}
+.site-aliados10 .content h5{
+	font-size: 15px;
+	margin-top: -10px;
+	color: #8e8e8e;
+	text-transform: uppercase;
+}
 .site-aliados10 .panels-flexible-region{
 	background-color:#ffffff;
 	min-height: 860px;
@@ -12,6 +18,10 @@
 }
 .site-aliados10 .title{
     display: none;
+}
+.site-aliados10 .breadcrumb{
+	margin-bottom: 0px;
+	height: 40px;
 }
 /*iframe video*/
 .site-aliados10 #genal-video-content-single-day{
