@@ -349,8 +349,11 @@
 }
 .site-aliados10 .content .infographic-moments.partner-activities .col-md-4{
 	padding-top: 40px;
-	background: url('../img/img-info-arrow.png') top center cover no-repeat fixed;
 }
+.site-aliados10 .content .infographic-moments.partner-activities{
+		background: url('../img/img-info-arrow.png') top center cover no-repeat fixed;
+}
+
 .site-aliados10 .content .list-inline li{
 	content: "• ";
 	color: #8DB530;
