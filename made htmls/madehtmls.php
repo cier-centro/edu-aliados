@@ -117,7 +117,7 @@ $(function () {
 <!-- Actividades para el acompañamiento -->
 
 <h3>Actividades para el acompañamiento</h3>
-<div class="row infographic-moments">
+<div class="row infographic-moments partner-activities">
 	<div class="col-md-4">
 		<button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="<ul class='list-unstyled'><li>Socialización de la estrategia en cada ETC.</li><li>Encuentro de alistamiento con colegios mentores.</li><li>Encuentro de alistamiento con IE acompañadas.</li><li>Encuentro de planeación entre los EE pares.</li><li>Socialización de la estrategia con la comunidad educativa.</li></ul>">
 			Actividades previas al acompañamiento situado

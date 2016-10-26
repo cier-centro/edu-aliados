@@ -344,6 +344,13 @@
 	display: block;
 	white-space: normal;
 }
+.site-aliados10 .content .infographic-moments.partner-activities .btn{
+	min-height: 80px;
+}
+.site-aliados10 .content .infographic-moments.partner-activities .col-md-4{
+	padding-top: 40px;
+	background: url('../img/img-info-arrow.png') top center cover no-repeat fixed;
+}
 .site-aliados10 .content .list-inline li{
 	content: "• ";
 	color: #8DB530;
@@ -373,7 +380,7 @@
 	min-height: 60px;
 	width: 100%;
 	text-align: left;
-	line-height: 34px;
+	line-height: 24px;
 }
 .site-aliados10 .content .news-and-events .panel-news-event{
 	background: rgba(0,0,0,0.60);
