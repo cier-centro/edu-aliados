@@ -46,7 +46,7 @@
     color: #767679;
 }
 /*verificar que estos estilos siempre apunten al contenido para no modificar estilos del menú*/
-.site-aliados10 .content .aliados10-section-content ul{
+.site-aliados10 .content .aliados10-section-content ul, .site-aliados10 .content .field-content ul li{
     margin:0 60px 20px 60px!important;
 }
 .site-aliados10 .content .aliados10-section-content ul li,.site-aliados10 .content .field-content ul li {
