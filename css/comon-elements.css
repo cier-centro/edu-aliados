@@ -49,11 +49,11 @@
 .site-aliados10 .content .aliados10-section-content ul{
     margin:0 60px 20px 60px!important;
 }
-.site-aliados10 .content .aliados10-section-content ul li,.site-aliados10 .content .aliados10-section-content ul li .field-content{
+.site-aliados10 .content .aliados10-section-content ul li,.site-aliados10 .content .field-content ul li {
     text-indent: -10px;
     /*cambiar el valor a positivo según la necesidad*/
 }
-.site-aliados10 .content .aliados10-section-content ul li:before {
+.site-aliados10 .content .aliados10-section-content ul li:before,.site-aliados10 .content .field-content ul li:before {
     content: "• ";
     color: #8DB530;
     font-weight: bold;
