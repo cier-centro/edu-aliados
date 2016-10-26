@@ -49,7 +49,7 @@
 .site-aliados10 .content .aliados10-section-content ul{
     margin:0 60px 20px 60px!important;
 }
-.site-aliados10 .content .aliados10-section-content ul li{
+.site-aliados10 .content .aliados10-section-content ul li,.site-aliados10 .content .aliados10-section-content ul li .field-content{
     text-indent: -10px;
     /*cambiar el valor a positivo según la necesidad*/
 }
@@ -197,7 +197,7 @@
 
 .site-aliados10 #aliados-10-home-slider .views_slideshow_slide > div .views-field-body {
   position: absolute;
-  top: 6%;
+  top: 28%;
   width: 64%;
   right: 26%;
   background: rgba(0, 0, 0, 0.20);
