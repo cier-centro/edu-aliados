@@ -1,5 +1,5 @@
 .site-aliados10 .content h1,h2,h3,h4,h5,label{
-	-webkit-font-smoothing​:initial !important;
+	-webkit-font-smoothing: auto!important;
 }
 
 .site-aliados10 .modal-dialog h4{margin-bottom: 0px;}
