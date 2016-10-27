@@ -330,13 +330,17 @@
 .site-aliados10 .content .infographic-content .info-third-group{background-color: #8FC1D3;}
 .site-aliados10 .content .infographic-content .info-third-group .btn{background-color: #338CB0; margin: 55px 18px 50px 0;}
 .site-aliados10 .content .infographic-content .info-third-group .btn:hover{background-color: #007C9F;}
-.site-aliados10 .content .info-instruction{
+.site-aliados10 .content .info-instruction, .site-aliados10 .content .info-subpicture{
 	font-size: 14px;
 	font-variant: normal;
 	font-style: italic;
 	font-weight: lighter;
 	text-indent: 15px;
 	padding: 5px;
+}
+.site-aliados10 .content .info-subpicture{
+	margin-bottom:20px;
+	margin-top:0px;
 }
 .site-aliados10 .content .infographic-moments .btn{
 	width: 90%;
