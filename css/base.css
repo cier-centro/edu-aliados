@@ -1,3 +1,7 @@
+.site-aliados10 .content h1,h2,h3,h4,h5,label{
+	-webkit-font-smoothing​:initial !important;
+}
+
 .site-aliados10 .modal-dialog h4{margin-bottom: 0px;}
 .site-aliados10 .content h5{
 	font-size: 15px;
@@ -379,6 +383,7 @@
 	display: block;
 	min-height: 60px;
 	width: 100%;
+	text-align: left;
 }
 .site-aliados10 .news-and-events .btn-panel h2{
 	background: url("../img/ico-btn-panel.png") no-repeat #802977;
