@@ -458,6 +458,9 @@
 .site-aliados10 .content .section-content-ju img{
 	margin: 10px 0;
 }
+.site-aliados10 #sub_footer{
+	width: 99%;
+}
 @media (min-width: 992px){
 	.site-aliados10 .news-and-events{
     position: relative;
