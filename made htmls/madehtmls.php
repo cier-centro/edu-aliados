@@ -115,7 +115,6 @@ $(function () {
 </script>
 
 <!-- Actividades para el acompañamiento -->
-
 <h3>Actividades para el acompañamiento</h3>
 <div class="row infographic-moments partner-activities">
 	<div class="col-md-4">
@@ -134,21 +133,24 @@ $(function () {
 		</button>
 	</div>
 </div>
-<label class="info-instruction">Haz clic sobre cada uno de los principios para conocer sus carácteristicas.</label>
+<label class="info-instruction">Haz clic sobre cada momento del proyecto para conocer sus características.</label>
 <h4>Actividades previas al acompañamiento</h4>
 <h5>Socialización de la estrategia en cada ETC</h5>
 <p>Es una reunión que realiza el profesional de campo que dinamiza la implementación de la estrategia en ETC en coordinación con los profesionales responsables del proceso en cada Secretarías de Educación beneficiada. El propósito es socializar la estrategia con rectores de los establecimientos educativos pares focalizados, dar a conocer los parámetros de participación y establecer acuerdos y compromisos, por escrito, para la participación en el proyecto.</p>
 <img src="http://52.37.84.217/edu-aliados/img/accompanying-activities.jpg" class="img-responsive" alt="Responsive image">
+<label class="info-subpicture">Socialización del Proyecto Cúcuta.</label>
 <h5>Socialización de la estrategia con la comunidad educativa</h5>
 <p>Corresponde a la gestión que realiza el rector de cada colegio mentor e IE acompañada para informar a su comunidad educativa sobre el proceso de acompañamiento en el que se ha comprometido el EE.</p>
 <h5>Encuentro de alistamiento con colegios mentores</h5>
 <p>Este encuentro busca socializar la estrategia de acompañamiento y el proyecto, a la vez que se realizan acuerdos iniciales con los colegios mentores para motivar su participación comprometida  y  se identifican sus características, expectativas y potencialidades para ejercer su rol de Mentor.</p>
 <img src="http://52.37.84.217/edu-aliados/img/colegios-mentores.jpg" class="img-responsive" alt="Responsive image">
+<label class="info-subpicture">Encuentro alistamiento colegios mentores Bogotá.</label>
 <h5>Encuentro de alistamiento con IE acompañadas</h5>
 <p>Este encuentro busca socializar la estrategia de acompañamiento y el proyecto, a la vez que se realizan acuerdos iniciales con las IE acompañadas para motivar su participación comprometida  y  se identifican sus características, expectativas, fortalezas y necesidades de acompañamiento.</p>
 <h5>Encuentro de planeación entre los EE pares</h5>
 <p>Corresponde al primer encuentro de planeación entre cada par de EE para formular el plan del acompañamiento, en el que los dos integrantes de la pareja de acompañamiento, con base en la caracterización realizada por cada uno de ellos, sus expectativas, fortalezas, necesidades de acompañamiento identificadas y con criterios de pertinencia al contexto sociocultural,  realizan acuerdos para el acompañamiento. </p>
 <img src="http://52.37.84.217/edu-aliados/img/encuentro-pares.jpg" class="img-responsive" alt="Responsive image">
+<label class="info-subpicture">Encuentro pares Antioquia.</label>
 <h4>Desarrollo de las sesiones situadas</h4>
 <h5>Ejecución del plan de acción</h5>
 <p>Corresponde a las actividades específicas concertadas en el plan de acompañamiento, mediante la cual el colegio mentor y la IE acompañada se encuentran para llevar a cabo el acompañamiento en los tópicos priorizados en cada dimensión, conforme al plan de acción y cronograma.</p>
@@ -160,9 +162,11 @@ $(function () {
 	<img src="http://52.37.84.217/edu-aliados/img/dia-clases2.jpg" class="img-responsive" alt="Responsive image">
   </div>
 </div>
+<label class="info-subpicture">Día de clases en la I.E. Rafael Uribe Uribe en el marco del encuentro de docentes de Matematicas, Lenguaje e Inglés, julio 21 de 2016.</label>
 <h5>Acompañamiento y seguimiento a la implementación de los planes de acción</h5>
 <p>Son las isitas de campo que realiza el profesional dinamizador del proceso en la ETC, mediante las cuales acompaña a cada par de EE en tres sesiones situadas durante el período de implementación de la estrategia. Estas visitas son para ofrecer asistencia técnica, proponer acciones de mejora, levantar información y hacer seguimiento a los recursos entregados para financiar el acompañamiento.</p>
 <img src="http://52.37.84.217/edu-aliados/img/el-salitre.jpg" class="img-responsive" alt="Responsive image">
+<label class="info-subpicture">Visita de acompañamiento Hacienda Los Alcaparros – IE El Salitre.</label>
 <h5>Interacción mediante la comunidad virtual de aprendizaje</h5>
 <p>El proyecto cuenta con una herramienta que se ha llamado “Comunidad virtual de aprendizaje” que permite el uso de las TIC para facilitar la interacción entre docentes, directivos docentes, equipo del proyecto Aliados 10, profesional de la SE y el Ministerio de Educación Nacional. El propósito es compartir conocimientos, experiencias, inquietudes, aclaraciones, material pedagógico, recibir y brindar asesoría técnica y hacer seguimiento a la ejecución de los recursos que financian el plan de acompañamiento.</p>
 <h5>Evaluación formativa</h5>
