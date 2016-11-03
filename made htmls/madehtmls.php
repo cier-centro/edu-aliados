@@ -110,8 +110,15 @@ $(function () {
 <label class="info-instruction">Haz clic sobre cada uno de los principios para conocer sus carácteristicas.</label>
 <script>
 $(function () {
-  $('[data-toggle="popover"]').popover()
-})
+  $('[data-toggle="popover"]').popover({ html : true });
+});
+$('[data-toggle="popover"]').on("mouseover", function(){
+	$(this).popover('show');
+});
+$('[data-toggle="popover"]').on("mouseout", function(){
+	$(this).popover('hide');
+	console.log("hover");
+});
 </script>
 
 <!-- Actividades para el acompañamiento -->
@@ -180,6 +187,15 @@ $(function () {
 $(function () {
   $('[data-toggle="popover"]').popover({ html : true });
 });
+$('[data-toggle="popover"]').on("mouseover", function(){
+	$(this).popover('show');
+});
+$('[data-toggle="popover"]').on("mouseout", function(){
+	$(this).popover('hide');
+	console.log("hover");
+});
+
+
 </script>
 <!-- Protagonistas / MEN -->
 
@@ -315,3 +331,13 @@ $(function () {
 		<p>Se valora el esfuerzo y dedicación de todas las parejas: colegios mentores e IE acompañadas, por mostrar sus apuestas y compartir su conocimiento, fue gratificante tener acercamiento a ellos. </p>
 	</div>
 </div>
+
+<!-- encabezado -->
+<a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/aliados10/93153">
+	<h2 class="pane-title">Noticias y Próximos eventos</h2>
+</a>
+
+<!-- pie -->
+<a target="_blank" href="http://aprende.colombiaaprende.edu.co/es/campusvirtual" class="btn-panel ">
+	<h2>Comunidad de aprendizaje</h2>
+</a>
